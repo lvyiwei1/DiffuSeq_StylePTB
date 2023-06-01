@@ -1,0 +1,729 @@
+{"src": "1 0 The unk auto maker last year sold NUM cars in the U.S.", "trg": "The unk auto maker last year sold NUM cars"}
+{"src": "1 2 NUM cars last year were sold by The unk auto maker in the U.S.", "trg": "The unk auto maker last year sold NUM cars"}
+{"src": "1 0 NUM cars last year were sold by The unk auto maker in the U.S.", "trg": "unk cars last year were sold"}
+{"src": "1 1 The unk auto maker last year sold NUM cars in the U.S.", "trg": "unk cars last year were sold"}
+{"src": "0 1 Japan has found another unk unk for its money U.S. home unk", "trg": "another unk unk for its money U.S. home unk have been found by Japan"}
+{"src": "0 2 another unk unk for its money U.S. home unk have been found by Japan", "trg": "Japan has found another unk unk for its money U.S. home unk"}
+{"src": "1 0 Japan has found another unk unk for its money U.S. home unk", "trg": "Japan has found another unk unk U.S. home unk"}
+{"src": "1 2 another unk unk for its money U.S. home unk have been found by Japan", "trg": "Japan has found another unk unk U.S. home unk"}
+{"src": "1 0 another unk unk for its money U.S. home unk have been found by Japan", "trg": "another unk unk U.S. home unk have been found"}
+{"src": "1 1 Japan has found another unk unk for its money U.S. home unk", "trg": "another unk unk U.S. home unk have been found"}
+{"src": "0 1 unk they offer high yields", "trg": "unk high yields are offered by them"}
+{"src": "0 2 unk high yields are offered by them", "trg": "unk they offer high yields"}
+{"src": "1 0 unk high yields are offered by them", "trg": "unk high yields are offered"}
+{"src": "1 1 unk they offer high yields", "trg": "unk high yields are offered"}
+{"src": "0 1 But they did n't lose unk with the U.S. unk", "trg": "But unk was n't lost by them with the U.S. unk"}
+{"src": "0 2 But unk was n't lost by them with the U.S. unk", "trg": "But they did n't lose unk with the U.S. unk"}
+{"src": "1 0 But they did n't lose unk with the U.S. unk", "trg": "But they did n't lose unk"}
+{"src": "1 2 But unk was n't lost by them with the U.S. unk", "trg": "But they did n't lose unk"}
+{"src": "1 0 But unk was n't lost by them with the U.S. unk", "trg": "But unk was n't lost"}
+{"src": "1 1 But they did n't lose unk with the U.S. unk", "trg": "But unk was n't lost"}
+{"src": "0 1 Such a proposal values Jaguar at more than NUM billion NUM billion", "trg": "Jaguar is valued by Such a proposal at more than NUM billion NUM billion"}
+{"src": "0 2 Jaguar is valued by Such a proposal at more than NUM billion NUM billion", "trg": "Such a proposal values Jaguar at more than NUM billion NUM billion"}
+{"src": "1 0 Such a proposal values Jaguar at more than NUM billion NUM billion", "trg": "Such a proposal values Jaguar"}
+{"src": "1 2 Jaguar is valued by Such a proposal at more than NUM billion NUM billion", "trg": "Such a proposal values Jaguar"}
+{"src": "1 0 Jaguar is valued by Such a proposal at more than NUM billion NUM billion", "trg": "Jaguar is valued"}
+{"src": "1 1 Such a proposal values Jaguar at more than NUM billion NUM billion", "trg": "Jaguar is valued"}
+{"src": "0 1 unk Corp. unk a NUM stock split", "trg": "a 2-for-1 stock split was unk by unk Corp."}
+{"src": "0 2 a NUM stock split was unk by unk Corp.", "trg": "unk Corp. unk a NUM stock split"}
+{"src": "1 0 a NUM stock split was unk by unk Corp.", "trg": "a 2-for-1 stock split was unk"}
+{"src": "1 1 unk Corp. unk a NUM stock split", "trg": "a 2-for-1 stock split was unk"}
+{"src": "0 1 The dividend had been five cents a share", "trg": "five cents a share had been five cents a share"}
+{"src": "0 2 five cents a share had been five cents a share", "trg": "The dividend had been five cents a share"}
+{"src": "0 1 Sales rose NUM % to NUM billion from NUM billion", "trg": "7.7 % was risen by Sales to NUM billion from NUM billion"}
+{"src": "0 2 NUM % was risen by Sales to NUM billion from NUM billion", "trg": "Sales rose NUM % to NUM billion from NUM billion"}
+{"src": "1 0 Sales rose NUM % to NUM billion from NUM billion", "trg": "Sales rose NUM %"}
+{"src": "1 2 NUM % was risen by Sales to NUM billion from NUM billion", "trg": "Sales rose NUM %"}
+{"src": "1 0 NUM % was risen by Sales to NUM billion from NUM billion", "trg": "7.7 % was risen"}
+{"src": "1 1 Sales rose NUM % to NUM billion from NUM billion", "trg": "7.7 % was risen"}
+{"src": "0 1 It 's a quiet unk said Mr. unk", "trg": "a quiet unk is had by It said Mr. unk"}
+{"src": "0 2 a quiet unk is had by It said Mr. unk", "trg": "It 's a quiet unk said Mr. unk"}
+{"src": "1 0 a quiet unk is had by It said Mr. unk", "trg": "a quiet unk is had said Mr. unk"}
+{"src": "1 1 It 's a quiet unk said Mr. unk", "trg": "a quiet unk is had said Mr. unk"}
+{"src": "0 1 It 's nothing dramatic just a unk sell-off", "trg": "nothing dramatic just a unk sell-off is had by It"}
+{"src": "0 2 nothing dramatic just a unk sell-off is had by It", "trg": "It 's nothing dramatic just a unk sell-off"}
+{"src": "1 0 nothing dramatic just a unk sell-off is had by It", "trg": "nothing dramatic just a unk sell-off is had"}
+{"src": "1 1 It 's nothing dramatic just a unk sell-off", "trg": "nothing dramatic just a unk sell-off is had"}
+{"src": "0 1 unk 's stock dropped NUM to NUM NUM", "trg": "2 were dropped by unk 's stock to NUM NUM"}
+{"src": "0 2 NUM were dropped by unk 's stock to NUM NUM", "trg": "unk 's stock dropped NUM to NUM NUM"}
+{"src": "1 0 unk 's stock dropped NUM to NUM NUM", "trg": "unk 's stock dropped NUM"}
+{"src": "1 2 NUM were dropped by unk 's stock to NUM NUM", "trg": "unk 's stock dropped NUM"}
+{"src": "1 0 NUM were dropped by unk 's stock to NUM NUM", "trg": "2 were dropped"}
+{"src": "1 1 unk 's stock dropped NUM to NUM NUM", "trg": "2 were dropped"}
+{"src": "0 1 The rise unk that of the Dow Jones industrials this year", "trg": "that of the Dow Jones industrials this year is matched by The rise"}
+{"src": "0 2 that of the Dow Jones industrials this year is matched by The rise", "trg": "The rise unk that of the Dow Jones industrials this year"}
+{"src": "1 0 The rise unk that of the Dow Jones industrials this year", "trg": "The rise unk that this year"}
+{"src": "1 2 that of the Dow Jones industrials this year is matched by The rise", "trg": "The rise unk that this year"}
+{"src": "1 0 that of the Dow Jones industrials this year is matched by The rise", "trg": "that this year is matched"}
+{"src": "1 1 The rise unk that of the Dow Jones industrials this year", "trg": "that this year is matched"}
+{"src": "0 1 unk earnings helped some issues", "trg": "some issues were helped by unk earnings"}
+{"src": "0 2 some issues were helped by unk earnings", "trg": "unk earnings helped some issues"}
+{"src": "1 0 some issues were helped by unk earnings", "trg": "some issues were helped"}
+{"src": "1 1 unk earnings helped some issues", "trg": "some issues were helped"}
+{"src": "0 1 He also unk East Germany 's unk to unk unk", "trg": "East Germany 's unk to unk unk also was unk by him"}
+{"src": "0 2 East Germany 's unk to unk unk also was unk by him", "trg": "He also unk East Germany 's unk to unk unk"}
+{"src": "1 0 He also unk East Germany 's unk to unk unk", "trg": "He also unk East Germany 's unk"}
+{"src": "1 2 East Germany 's unk to unk unk also was unk by him", "trg": "He also unk East Germany 's unk"}
+{"src": "1 0 East Germany 's unk to unk unk also was unk by him", "trg": "East Germany 's unk also was unk"}
+{"src": "1 1 He also unk East Germany 's unk to unk unk", "trg": "East Germany 's unk also was unk"}
+{"src": "0 1 The plan lacked a withdrawal unk", "trg": "a withdrawal unk was lacked by The plan"}
+{"src": "0 2 a withdrawal unk was lacked by The plan", "trg": "The plan lacked a withdrawal unk"}
+{"src": "1 0 a withdrawal unk was lacked by The plan", "trg": "a withdrawal unk was lacked"}
+{"src": "1 1 The plan lacked a withdrawal unk", "trg": "a withdrawal unk was lacked"}
+{"src": "0 1 unk authorities did n't immediately know the cause of the unk", "trg": "the cause of the unk was n't immediately known by unk authorities"}
+{"src": "0 2 the cause of the unk was n't immediately known by unk authorities", "trg": "unk authorities did n't immediately know the cause of the unk"}
+{"src": "1 0 unk authorities did n't immediately know the cause of the unk", "trg": "unk authorities did n't immediately know the cause"}
+{"src": "1 2 the cause of the unk was n't immediately known by unk authorities", "trg": "unk authorities did n't immediately know the cause"}
+{"src": "1 0 the cause of the unk was n't immediately known by unk authorities", "trg": "the cause was n't immediately known"}
+{"src": "1 1 unk authorities did n't immediately know the cause of the unk", "trg": "the cause was n't immediately known"}
+{"src": "0 1 It is however possible that further unk will unk increasing unk", "trg": "It is however possible that increasing unk will be unk by further unk"}
+{"src": "0 2 It is however possible that increasing unk will be unk by further unk", "trg": "It is however possible that further unk will unk increasing unk"}
+{"src": "1 0 It is however possible that increasing unk will be unk by further unk", "trg": "It is however possible that increasing unk will be unk"}
+{"src": "1 1 It is however possible that further unk will unk increasing unk", "trg": "It is however possible that increasing unk will be unk"}
+{"src": "0 1 unk leaders unk the unk restructuring", "trg": "the unk restructuring was unk by unk leaders"}
+{"src": "0 2 the unk restructuring was unk by unk leaders", "trg": "unk leaders unk the unk restructuring"}
+{"src": "1 0 the unk restructuring was unk by unk leaders", "trg": "the unk restructuring was unk"}
+{"src": "1 1 unk leaders unk the unk restructuring", "trg": "the unk restructuring was unk"}
+{"src": "0 1 That 's a big number", "trg": "a big number is had by That"}
+{"src": "0 2 a big number is had by That", "trg": "That 's a big number"}
+{"src": "1 0 a big number is had by That", "trg": "a big number is had"}
+{"src": "1 1 That 's a big number", "trg": "a big number is had"}
+{"src": "0 1 Volume on the New York Stock Exchange totaled NUM million shares", "trg": "unk million shares were totaled by Volume on the New York Stock Exchange"}
+{"src": "0 2 NUM million shares were totaled by Volume on the New York Stock Exchange", "trg": "Volume on the New York Stock Exchange totaled NUM million shares"}
+{"src": "1 0 Volume on the New York Stock Exchange totaled NUM million shares", "trg": "Volume totaled NUM million shares"}
+{"src": "1 2 NUM million shares were totaled by Volume on the New York Stock Exchange", "trg": "Volume totaled NUM million shares"}
+{"src": "1 0 NUM million shares were totaled by Volume on the New York Stock Exchange", "trg": "unk million shares were totaled"}
+{"src": "1 1 Volume on the New York Stock Exchange totaled NUM million shares", "trg": "unk million shares were totaled"}
+{"src": "0 1 But junk bonds took more hits", "trg": "But more hits were taken by junk bonds"}
+{"src": "0 2 But more hits were taken by junk bonds", "trg": "But junk bonds took more hits"}
+{"src": "1 0 But more hits were taken by junk bonds", "trg": "But more hits were taken"}
+{"src": "1 1 But junk bonds took more hits", "trg": "But more hits were taken"}
+{"src": "0 1 unk unk and investment-grade corporate bonds rose NUM to NUM point", "trg": "1\\/8 were risen by unk unk and investment-grade corporate bonds to NUM point"}
+{"src": "0 2 NUM were risen by unk unk and investment-grade corporate bonds to NUM point", "trg": "unk unk and investment-grade corporate bonds rose NUM to NUM point"}
+{"src": "1 0 unk unk and investment-grade corporate bonds rose NUM to NUM point", "trg": "unk unk and investment-grade corporate bonds rose NUM"}
+{"src": "1 2 NUM were risen by unk unk and investment-grade corporate bonds to NUM point", "trg": "unk unk and investment-grade corporate bonds rose NUM"}
+{"src": "1 0 NUM were risen by unk unk and investment-grade corporate bonds to NUM point", "trg": "1\\/8 were risen"}
+{"src": "1 1 unk unk and investment-grade corporate bonds rose NUM to NUM point", "trg": "1\\/8 were risen"}
+{"src": "0 1 RJR 's NUM % bonds due NUM fell NUM NUM points", "trg": "2 1\\/2 points were felled by RJR 's NUM % bonds due NUM"}
+{"src": "0 2 NUM NUM points were felled by RJR 's NUM % bonds due NUM", "trg": "RJR 's NUM % bonds due NUM fell NUM NUM points"}
+{"src": "1 0 NUM NUM points were felled by RJR 's NUM % bonds due NUM", "trg": "2 1\\/2 points were felled"}
+{"src": "1 1 RJR 's NUM % bonds due NUM fell NUM NUM points", "trg": "2 1\\/2 points were felled"}
+{"src": "0 1 Mr. unk said I just got a tremendous offer from unk", "trg": "Mr. unk said a tremendous offer from unk was just got by me"}
+{"src": "0 2 Mr. unk said a tremendous offer from unk was just got by me", "trg": "Mr. unk said I just got a tremendous offer from unk"}
+{"src": "1 0 Mr. unk said I just got a tremendous offer from unk", "trg": "Mr. unk said I just got a tremendous offer"}
+{"src": "1 2 Mr. unk said a tremendous offer from unk was just got by me", "trg": "Mr. unk said I just got a tremendous offer"}
+{"src": "1 0 Mr. unk said a tremendous offer from unk was just got by me", "trg": "Mr. unk said a tremendous offer was just got"}
+{"src": "1 1 Mr. unk said I just got a tremendous offer from unk", "trg": "Mr. unk said a tremendous offer was just got"}
+{"src": "0 1 unk other computer unk offers unk performance that good for their price", "trg": "unk performance that good is offered by unk other computer unk for their price"}
+{"src": "0 2 unk performance that good is offered by unk other computer unk for their price", "trg": "unk other computer unk offers unk performance that good for their price"}
+{"src": "1 0 unk other computer unk offers unk performance that good for their price", "trg": "unk other computer unk offers unk performance that good"}
+{"src": "1 2 unk performance that good is offered by unk other computer unk for their price", "trg": "unk other computer unk offers unk performance that good"}
+{"src": "1 0 unk performance that good is offered by unk other computer unk for their price", "trg": "unk performance that good is offered"}
+{"src": "1 1 unk other computer unk offers unk performance that good for their price", "trg": "unk performance that good is offered"}
+{"src": "0 1 That 's a lot of unk as it turns out", "trg": "a lot of unk is had by That as it turns out"}
+{"src": "0 2 a lot of unk is had by That as it turns out", "trg": "That 's a lot of unk as it turns out"}
+{"src": "1 0 That 's a lot of unk as it turns out", "trg": "That 's a lot as it turns out"}
+{"src": "1 2 a lot of unk is had by That as it turns out", "trg": "That 's a lot as it turns out"}
+{"src": "1 0 a lot of unk is had by That as it turns out", "trg": "a lot is had as it turns out"}
+{"src": "1 1 That 's a lot of unk as it turns out", "trg": "a lot is had as it turns out"}
+{"src": "0 1 unk unk as it happens has a potential unk for unk", "trg": "a potential unk for unk as it happens is had by unk unk"}
+{"src": "0 2 a potential unk for unk as it happens is had by unk unk", "trg": "unk unk as it happens has a potential unk for unk"}
+{"src": "1 0 unk unk as it happens has a potential unk for unk", "trg": "unk unk as it happens has a potential unk"}
+{"src": "1 2 a potential unk for unk as it happens is had by unk unk", "trg": "unk unk as it happens has a potential unk"}
+{"src": "1 0 a potential unk for unk as it happens is had by unk unk", "trg": "a potential unk as it happens is had"}
+{"src": "1 1 unk unk as it happens has a potential unk for unk", "trg": "a potential unk as it happens is had"}
+{"src": "0 1 They needed new unk to generate new grants and contracts", "trg": "new unk were needed by them to generate new grants and contracts"}
+{"src": "0 2 new unk were needed by them to generate new grants and contracts", "trg": "They needed new unk to generate new grants and contracts"}
+{"src": "1 0 new unk were needed by them to generate new grants and contracts", "trg": "new unk were needed to generate new grants and contracts"}
+{"src": "1 1 They needed new unk to generate new grants and contracts", "trg": "new unk were needed to generate new grants and contracts"}
+{"src": "0 1 The unk needs the most unk unk management unk", "trg": "the most unk unk management unk is needed by The unk"}
+{"src": "0 2 the most unk unk management unk is needed by The unk", "trg": "The unk needs the most unk unk management unk"}
+{"src": "1 0 the most unk unk management unk is needed by The unk", "trg": "the most unk unk management unk is needed"}
+{"src": "1 1 The unk needs the most unk unk management unk", "trg": "the most unk unk management unk is needed"}
+{"src": "0 1 But Mr. unk has long ties to both unk and banking", "trg": "But long ties to both unk and banking are had by Mr. unk"}
+{"src": "0 2 But long ties to both unk and banking are had by Mr. unk", "trg": "But Mr. unk has long ties to both unk and banking"}
+{"src": "1 0 But Mr. unk has long ties to both unk and banking", "trg": "But Mr. unk has long ties"}
+{"src": "1 2 But long ties to both unk and banking are had by Mr. unk", "trg": "But Mr. unk has long ties"}
+{"src": "1 0 But long ties to both unk and banking are had by Mr. unk", "trg": "But long ties are had"}
+{"src": "1 1 But Mr. unk has long ties to both unk and banking", "trg": "But long ties are had"}
+{"src": "0 1 It 's an unk human unk that 's been unk in unk", "trg": "an unk human unk that 's been unk in unk is had by It"}
+{"src": "0 2 an unk human unk that 's been unk in unk is had by It", "trg": "It 's an unk human unk that 's been unk in unk"}
+{"src": "1 0 It 's an unk human unk that 's been unk in unk", "trg": "It 's an unk human unk that 's been unk"}
+{"src": "1 2 an unk human unk that 's been unk in unk is had by It", "trg": "It 's an unk human unk that 's been unk"}
+{"src": "1 0 an unk human unk that 's been unk in unk is had by It", "trg": "an unk human unk that 's been unk is had"}
+{"src": "1 1 It 's an unk human unk that 's been unk in unk", "trg": "an unk human unk that 's been unk is had"}
+{"src": "0 1 AN unk unk unk a unk in the unk world of unk", "trg": "a unk is found by AN unk unk in the unk world of unk"}
+{"src": "0 2 a unk is found by AN unk unk in the unk world of unk", "trg": "AN unk unk unk a unk in the unk world of unk"}
+{"src": "1 0 AN unk unk unk a unk in the unk world of unk", "trg": "AN unk unk unk a unk"}
+{"src": "1 2 a unk is found by AN unk unk in the unk world of unk", "trg": "AN unk unk unk a unk"}
+{"src": "1 0 a unk is found by AN unk unk in the unk world of unk", "trg": "a unk is found"}
+{"src": "1 1 AN unk unk unk a unk in the unk world of unk", "trg": "a unk is found"}
+{"src": "0 1 It also could unk unk from unk wastes into unk protein", "trg": "unk from unk wastes also could be unk by It into unk protein"}
+{"src": "0 2 unk from unk wastes also could be unk by It into unk protein", "trg": "It also could unk unk from unk wastes into unk protein"}
+{"src": "1 0 It also could unk unk from unk wastes into unk protein", "trg": "It also could unk unk"}
+{"src": "1 2 unk from unk wastes also could be unk by It into unk protein", "trg": "It also could unk unk"}
+{"src": "1 0 unk from unk wastes also could be unk by It into unk protein", "trg": "unk also could be unk"}
+{"src": "1 1 It also could unk unk from unk wastes into unk protein", "trg": "unk also could be unk"}
+{"src": "0 1 unk protein never unk out and most companies abandoned such research", "trg": "unk protein never unk out and such research was abandonned by most companies"}
+{"src": "0 2 unk protein never unk out and such research was abandonned by most companies", "trg": "unk protein never unk out and most companies abandoned such research"}
+{"src": "1 0 unk protein never unk out and such research was abandonned by most companies", "trg": "unk protein never unk out and such research was abandonned"}
+{"src": "1 1 unk protein never unk out and most companies abandoned such research", "trg": "unk protein never unk out and such research was abandonned"}
+{"src": "0 1 The ultimate hope is that the unk could identify unk unk", "trg": "The ultimate hope is that unk unk could be identified by the unk"}
+{"src": "0 2 The ultimate hope is that unk unk could be identified by the unk", "trg": "The ultimate hope is that the unk could identify unk unk"}
+{"src": "1 0 The ultimate hope is that unk unk could be identified by the unk", "trg": "The ultimate hope is that unk unk could be identified"}
+{"src": "1 1 The ultimate hope is that the unk could identify unk unk", "trg": "The ultimate hope is that unk unk could be identified"}
+{"src": "0 1 The August increase followed a NUM % decline in July", "trg": "a 0.3 % decline in July was followed by The August increase"}
+{"src": "0 2 a NUM % decline in July was followed by The August increase", "trg": "The August increase followed a NUM % decline in July"}
+{"src": "1 0 The August increase followed a NUM % decline in July", "trg": "The August increase followed a NUM % decline"}
+{"src": "1 2 a NUM % decline in July was followed by The August increase", "trg": "The August increase followed a NUM % decline"}
+{"src": "1 0 a NUM % decline in July was followed by The August increase", "trg": "a 0.3 % decline was followed"}
+{"src": "1 1 The August increase followed a NUM % decline in July", "trg": "a 0.3 % decline was followed"}
+{"src": "0 1 The company said it would have no further comment", "trg": "The company said no further comment would be had by it"}
+{"src": "0 2 The company said no further comment would be had by it", "trg": "The company said it would have no further comment"}
+{"src": "1 0 The company said no further comment would be had by it", "trg": "The company said no further comment would be had"}
+{"src": "1 1 The company said it would have no further comment", "trg": "The company said no further comment would be had"}
+{"src": "0 1 The unk unk Democrats and the unk unk party posted mixed results", "trg": "mixed results were posted by The unk unk Democrats and the unk unk party"}
+{"src": "0 2 mixed results were posted by The unk unk Democrats and the unk unk party", "trg": "The unk unk Democrats and the unk unk party posted mixed results"}
+{"src": "1 0 mixed results were posted by The unk unk Democrats and the unk unk party", "trg": "mixed results were posted"}
+{"src": "1 1 The unk unk Democrats and the unk unk party posted mixed results", "trg": "mixed results were posted"}
+{"src": "0 1 The red unk unk draws thousands of visitors daily", "trg": "thousands of visitors are drawn by The red unk unk daily"}
+{"src": "0 2 thousands of visitors are drawn by The red unk unk daily", "trg": "The red unk unk draws thousands of visitors daily"}
+{"src": "1 0 The red unk unk draws thousands of visitors daily", "trg": "The red unk unk draws thousands daily"}
+{"src": "1 2 thousands of visitors are drawn by The red unk unk daily", "trg": "The red unk unk draws thousands daily"}
+{"src": "1 0 thousands of visitors are drawn by The red unk unk daily", "trg": "thousands are drawn daily"}
+{"src": "1 1 The red unk unk draws thousands of visitors daily", "trg": "thousands are drawn daily"}
+{"src": "0 1 unk has NUM million shares outstanding", "trg": "3.1 million shares outstanding are had by unk"}
+{"src": "0 2 NUM million shares outstanding are had by unk", "trg": "unk has NUM million shares outstanding"}
+{"src": "1 0 NUM million shares outstanding are had by unk", "trg": "3.1 million shares outstanding are had"}
+{"src": "1 1 unk has NUM million shares outstanding", "trg": "3.1 million shares outstanding are had"}
+{"src": "0 1 As of Aug. NUM unk held NUM billion in unk securities", "trg": "As of Aug. NUM NUM billion in unk securities were held by unk"}
+{"src": "0 2 As of Aug. NUM NUM billion in unk securities were held by unk", "trg": "As of Aug. NUM unk held NUM billion in unk securities"}
+{"src": "1 0 As of Aug. NUM unk held NUM billion in unk securities", "trg": "unk held NUM billion"}
+{"src": "1 2 As of Aug. NUM NUM billion in unk securities were held by unk", "trg": "unk held NUM billion"}
+{"src": "1 0 As of Aug. NUM NUM billion in unk securities were held by unk", "trg": "unk billion were held"}
+{"src": "1 1 As of Aug. NUM unk held NUM billion in unk securities", "trg": "unk billion were held"}
+{"src": "0 1 For the prior year deposits exceeded withdrawals by NUM billion", "trg": "For the prior year withdrawals were exceeded by deposits by NUM billion"}
+{"src": "0 2 For the prior year withdrawals were exceeded by deposits by NUM billion", "trg": "For the prior year deposits exceeded withdrawals by NUM billion"}
+{"src": "1 0 For the prior year deposits exceeded withdrawals by NUM billion", "trg": "deposits exceeded withdrawals"}
+{"src": "1 2 For the prior year withdrawals were exceeded by deposits by NUM billion", "trg": "deposits exceeded withdrawals"}
+{"src": "1 0 For the prior year withdrawals were exceeded by deposits by NUM billion", "trg": "withdrawals were exceeded"}
+{"src": "1 1 For the prior year deposits exceeded withdrawals by NUM billion", "trg": "withdrawals were exceeded"}
+{"src": "0 1 Then he unk his own unk attack", "trg": "Then his own unk attack was unk by him"}
+{"src": "0 2 Then his own unk attack was unk by him", "trg": "Then he unk his own unk attack"}
+{"src": "1 0 Then his own unk attack was unk by him", "trg": "Then his own unk attack was unk"}
+{"src": "1 1 Then he unk his own unk attack", "trg": "Then his own unk attack was unk"}
+{"src": "0 1 But the unk unk stuck with unk chips they needed unk", "trg": "But the unk unk stuck with unk chips unk was needed by them"}
+{"src": "0 2 But the unk unk stuck with unk chips unk was needed by them", "trg": "But the unk unk stuck with unk chips they needed unk"}
+{"src": "1 0 But the unk unk stuck with unk chips they needed unk", "trg": "But the unk unk stuck they needed unk"}
+{"src": "1 2 But the unk unk stuck with unk chips unk was needed by them", "trg": "But the unk unk stuck they needed unk"}
+{"src": "1 0 But the unk unk stuck with unk chips unk was needed by them", "trg": "But the unk unk stuck unk was needed"}
+{"src": "1 1 But the unk unk stuck with unk chips they needed unk", "trg": "But the unk unk stuck unk was needed"}
+{"src": "0 1 unk amount of unk could have saved this game for unk", "trg": "this game could have been saved by unk amount of unk for unk"}
+{"src": "0 2 this game could have been saved by unk amount of unk for unk", "trg": "unk amount of unk could have saved this game for unk"}
+{"src": "1 0 unk amount of unk could have saved this game for unk", "trg": "unk amount could have saved this game"}
+{"src": "1 2 this game could have been saved by unk amount of unk for unk", "trg": "unk amount could have saved this game"}
+{"src": "1 0 this game could have been saved by unk amount of unk for unk", "trg": "this game could have been saved"}
+{"src": "1 1 unk amount of unk could have saved this game for unk", "trg": "this game could have been saved"}
+{"src": "0 1 unk unk unk In three years we 'll unk a better challenge", "trg": "unk unk unk In three years a better challenge 'll be unk by us"}
+{"src": "0 2 unk unk unk In three years a better challenge 'll be unk by us", "trg": "unk unk unk In three years we 'll unk a better challenge"}
+{"src": "1 0 unk unk unk In three years we 'll unk a better challenge", "trg": "unk unk unk we 'll unk a better challenge"}
+{"src": "1 2 unk unk unk In three years a better challenge 'll be unk by us", "trg": "unk unk unk we 'll unk a better challenge"}
+{"src": "1 0 unk unk unk In three years a better challenge 'll be unk by us", "trg": "unk unk unk a better challenge 'll be unk"}
+{"src": "1 1 unk unk unk In three years we 'll unk a better challenge", "trg": "unk unk unk a better challenge 'll be unk"}
+{"src": "0 1 He had been vice president in that office", "trg": "vice president in that office had been vice president in that office"}
+{"src": "0 2 vice president in that office had been vice president in that office", "trg": "He had been vice president in that office"}
+{"src": "1 0 He had been vice president in that office", "trg": "He had been vice president"}
+{"src": "1 2 vice president in that office had been vice president in that office", "trg": "He had been vice president"}
+{"src": "1 0 vice president in that office had been vice president in that office", "trg": "vice president had been vice president"}
+{"src": "1 1 He had been vice president in that office", "trg": "vice president had been vice president"}
+{"src": "0 1 And federal insurance protected the bank 's NUM unk", "trg": "And the bank 's NUM unk was protected by federal insurance"}
+{"src": "0 2 And the bank 's NUM unk was protected by federal insurance", "trg": "And federal insurance protected the bank 's NUM unk"}
+{"src": "1 0 And the bank 's NUM unk was protected by federal insurance", "trg": "And the bank 's NUM unk was protected"}
+{"src": "1 1 And federal insurance protected the bank 's NUM unk", "trg": "And the bank 's NUM unk was protected"}
+{"src": "0 1 The ads celebrate the unk of some of Lake unk 's unk", "trg": "the unk of some of Lake unk 's unk are unk by The ads"}
+{"src": "0 2 the unk of some of Lake unk 's unk are unk by The ads", "trg": "The ads celebrate the unk of some of Lake unk 's unk"}
+{"src": "1 0 The ads celebrate the unk of some of Lake unk 's unk", "trg": "The ads celebrate the unk"}
+{"src": "1 2 the unk of some of Lake unk 's unk are unk by The ads", "trg": "The ads celebrate the unk"}
+{"src": "1 0 the unk of some of Lake unk 's unk are unk by The ads", "trg": "the unk are unk"}
+{"src": "1 1 The ads celebrate the unk of some of Lake unk 's unk", "trg": "the unk are unk"}
+{"src": "0 1 It shows a unk unk rocks at a street unk", "trg": "It shows rocks being unk by a unk at a street unk"}
+{"src": "0 2 It shows rocks being unk by a unk at a street unk", "trg": "It shows a unk unk rocks at a street unk"}
+{"src": "1 0 It shows a unk unk rocks at a street unk", "trg": "It shows a unk unk rocks"}
+{"src": "1 2 It shows rocks being unk by a unk at a street unk", "trg": "It shows a unk unk rocks"}
+{"src": "1 0 It shows rocks being unk by a unk at a street unk", "trg": "It shows rocks being unk"}
+{"src": "1 1 It shows a unk unk rocks at a street unk", "trg": "It shows rocks being unk"}
+{"src": "0 1 unk holders will have the option to request either stock or cash", "trg": "the option to request either stock or cash will be had by unk holders"}
+{"src": "0 2 the option to request either stock or cash will be had by unk holders", "trg": "unk holders will have the option to request either stock or cash"}
+{"src": "1 0 the option to request either stock or cash will be had by unk holders", "trg": "the option to request either stock or cash will be had"}
+{"src": "1 1 unk holders will have the option to request either stock or cash", "trg": "the option to request either stock or cash will be had"}
+{"src": "0 1 The deal requires unk and shareholder approval", "trg": "unk and shareholder approval is required by The deal"}
+{"src": "0 2 unk and shareholder approval is required by The deal", "trg": "The deal requires unk and shareholder approval"}
+{"src": "1 0 unk and shareholder approval is required by The deal", "trg": "unk and shareholder approval is required"}
+{"src": "1 1 The deal requires unk and shareholder approval", "trg": "unk and shareholder approval is required"}
+{"src": "0 1 Sales rose NUM % to NUM million from NUM million", "trg": "4.5 % was risen by Sales to NUM million from NUM million"}
+{"src": "0 2 NUM % was risen by Sales to NUM million from NUM million", "trg": "Sales rose NUM % to NUM million from NUM million"}
+{"src": "1 0 Sales rose NUM % to NUM million from NUM million", "trg": "Sales rose NUM %"}
+{"src": "1 2 NUM % was risen by Sales to NUM million from NUM million", "trg": "Sales rose NUM %"}
+{"src": "1 0 NUM % was risen by Sales to NUM million from NUM million", "trg": "4.5 % was risen"}
+{"src": "1 1 Sales rose NUM % to NUM million from NUM million", "trg": "4.5 % was risen"}
+{"src": "0 1 Revenue rose NUM % to NUM million from NUM million", "trg": "5 % was risen by Revenue to NUM million from NUM million"}
+{"src": "0 2 NUM % was risen by Revenue to NUM million from NUM million", "trg": "Revenue rose NUM % to NUM million from NUM million"}
+{"src": "1 0 Revenue rose NUM % to NUM million from NUM million", "trg": "Revenue rose NUM %"}
+{"src": "1 2 NUM % was risen by Revenue to NUM million from NUM million", "trg": "Revenue rose NUM %"}
+{"src": "1 0 NUM % was risen by Revenue to NUM million from NUM million", "trg": "5 % was risen"}
+{"src": "1 1 Revenue rose NUM % to NUM million from NUM million", "trg": "5 % was risen"}
+{"src": "0 1 A federal judge turned down the unk NUM unk", "trg": "the unk NUM unk was turned down by A federal judge"}
+{"src": "0 2 the unk NUM unk was turned down by A federal judge", "trg": "A federal judge turned down the unk NUM unk"}
+{"src": "1 0 the unk NUM unk was turned down by A federal judge", "trg": "the unk NUM unk was turned down"}
+{"src": "1 1 A federal judge turned down the unk NUM unk", "trg": "the unk NUM unk was turned down"}
+{"src": "0 1 He reports his business is up slightly from customers unk old stock", "trg": "He reports his business is up slightly from old stock being replaced by customers"}
+{"src": "0 2 He reports his business is up slightly from old stock being replaced by customers", "trg": "He reports his business is up slightly from customers unk old stock"}
+{"src": "1 0 He reports his business is up slightly from customers unk old stock", "trg": "He reports his business is up slightly"}
+{"src": "1 2 He reports his business is up slightly from old stock being replaced by customers", "trg": "He reports his business is up slightly"}
+{"src": "1 0 He reports his business is up slightly from old stock being replaced by customers", "trg": "He reports his business is up slightly"}
+{"src": "1 1 He reports his business is up slightly from customers unk old stock", "trg": "He reports his business is up slightly"}
+{"src": "0 1 unk A unk in unk rules unk a controversy", "trg": "a controversy is stired by unk A unk in unk rules"}
+{"src": "0 2 a controversy is stired by unk A unk in unk rules", "trg": "unk A unk in unk rules unk a controversy"}
+{"src": "1 0 unk A unk in unk rules unk a controversy", "trg": "unk A unk unk a controversy"}
+{"src": "1 2 a controversy is stired by unk A unk in unk rules", "trg": "unk A unk unk a controversy"}
+{"src": "1 0 a controversy is stired by unk A unk in unk rules", "trg": "a controversy is stired"}
+{"src": "1 1 unk A unk in unk rules unk a controversy", "trg": "a controversy is stired"}
+{"src": "0 1 As of Sept. NUM unk had NUM million common shares outstanding", "trg": "As of Sept. NUM NUM million common shares outstanding were had by unk"}
+{"src": "0 2 As of Sept. NUM NUM million common shares outstanding were had by unk", "trg": "As of Sept. NUM unk had NUM million common shares outstanding"}
+{"src": "1 0 As of Sept. NUM unk had NUM million common shares outstanding", "trg": "unk had NUM million common shares outstanding"}
+{"src": "1 2 As of Sept. NUM NUM million common shares outstanding were had by unk", "trg": "unk had NUM million common shares outstanding"}
+{"src": "1 0 As of Sept. NUM NUM million common shares outstanding were had by unk", "trg": "5.3 million common shares outstanding were had"}
+{"src": "1 1 As of Sept. NUM unk had NUM million common shares outstanding", "trg": "5.3 million common shares outstanding were had"}
+{"src": "0 1 The action increases the annual dividend to NUM a share from NUM", "trg": "the annual dividend is increased by The action to NUM a share from NUM"}
+{"src": "0 2 the annual dividend is increased by The action to NUM a share from NUM", "trg": "The action increases the annual dividend to NUM a share from NUM"}
+{"src": "1 0 The action increases the annual dividend to NUM a share from NUM", "trg": "The action increases the annual dividend"}
+{"src": "1 2 the annual dividend is increased by The action to NUM a share from NUM", "trg": "The action increases the annual dividend"}
+{"src": "1 0 the annual dividend is increased by The action to NUM a share from NUM", "trg": "the annual dividend is increased"}
+{"src": "1 1 The action increases the annual dividend to NUM a share from NUM", "trg": "the annual dividend is increased"}
+{"src": "0 1 Sales rose NUM % to NUM million from NUM million", "trg": "2.9 % was risen by Sales to NUM million from NUM million"}
+{"src": "0 2 NUM % was risen by Sales to NUM million from NUM million", "trg": "Sales rose NUM % to NUM million from NUM million"}
+{"src": "1 0 Sales rose NUM % to NUM million from NUM million", "trg": "Sales rose NUM %"}
+{"src": "1 2 NUM % was risen by Sales to NUM million from NUM million", "trg": "Sales rose NUM %"}
+{"src": "1 0 NUM % was risen by Sales to NUM million from NUM million", "trg": "2.9 % was risen"}
+{"src": "1 1 Sales rose NUM % to NUM million from NUM million", "trg": "2.9 % was risen"}
+{"src": "0 1 unk has NUM million shares outstanding", "trg": "unk million shares outstanding are had by unk"}
+{"src": "0 2 NUM million shares outstanding are had by unk", "trg": "unk has NUM million shares outstanding"}
+{"src": "1 0 NUM million shares outstanding are had by unk", "trg": "unk million shares outstanding are had"}
+{"src": "1 1 unk has NUM million shares outstanding", "trg": "unk million shares outstanding are had"}
+{"src": "0 1 You must have world-class brands a long-term perspective and unk pockets", "trg": "world-class brands a long-term perspective and unk pockets must be had by You"}
+{"src": "0 2 world-class brands a long-term perspective and unk pockets must be had by You", "trg": "You must have world-class brands a long-term perspective and unk pockets"}
+{"src": "1 0 world-class brands a long-term perspective and unk pockets must be had by You", "trg": "world-class brands a long-term perspective and unk pockets must be had"}
+{"src": "1 1 You must have world-class brands a long-term perspective and unk pockets", "trg": "world-class brands a long-term perspective and unk pockets must be had"}
+{"src": "0 1 unk of unk surged NUM % to NUM unk unk", "trg": "54 % was surged by unk of unk to NUM unk unk"}
+{"src": "0 2 NUM % was surged by unk of unk to NUM unk unk", "trg": "unk of unk surged NUM % to NUM unk unk"}
+{"src": "1 0 unk of unk surged NUM % to NUM unk unk", "trg": "unk surged NUM %"}
+{"src": "1 2 NUM % was surged by unk of unk to NUM unk unk", "trg": "unk surged NUM %"}
+{"src": "1 0 NUM % was surged by unk of unk to NUM unk unk", "trg": "54 % was surged"}
+{"src": "1 1 unk of unk surged NUM % to NUM unk unk", "trg": "54 % was surged"}
+{"src": "0 1 unk unk unk unk in Japan", "trg": "unk unk are unk by unk in Japan"}
+{"src": "0 2 unk unk are unk by unk in Japan", "trg": "unk unk unk unk in Japan"}
+{"src": "1 0 unk unk unk unk in Japan", "trg": "unk unk unk unk"}
+{"src": "1 2 unk unk are unk by unk in Japan", "trg": "unk unk unk unk"}
+{"src": "1 0 unk unk are unk by unk in Japan", "trg": "unk unk are unk"}
+{"src": "1 1 unk unk unk unk in Japan", "trg": "unk unk are unk"}
+{"src": "0 1 unk unk print ads however strike different unk in different countries", "trg": "different unk however are struck by unk unk print ads in different countries"}
+{"src": "0 2 different unk however are struck by unk unk print ads in different countries", "trg": "unk unk print ads however strike different unk in different countries"}
+{"src": "1 0 unk unk print ads however strike different unk in different countries", "trg": "unk unk print ads however strike different unk"}
+{"src": "1 2 different unk however are struck by unk unk print ads in different countries", "trg": "unk unk print ads however strike different unk"}
+{"src": "1 0 different unk however are struck by unk unk print ads in different countries", "trg": "different unk however are struck"}
+{"src": "1 1 unk unk print ads however strike different unk in different countries", "trg": "different unk however are struck"}
+{"src": "0 1 Mr. unk estimates the industry 's total revenues approach NUM million", "trg": "Mr. unk estimates NUM million are approached by the industry 's total revenues"}
+{"src": "0 2 Mr. unk estimates NUM million are approached by the industry 's total revenues", "trg": "Mr. unk estimates the industry 's total revenues approach NUM million"}
+{"src": "1 0 Mr. unk estimates NUM million are approached by the industry 's total revenues", "trg": "Mr. unk estimates NUM million are approached"}
+{"src": "1 1 Mr. unk estimates the industry 's total revenues approach NUM million", "trg": "Mr. unk estimates NUM million are approached"}
+{"src": "0 1 A more unk panel became a second unk", "trg": "a second unk was become by A more unk panel"}
+{"src": "0 2 a second unk was become by A more unk panel", "trg": "A more unk panel became a second unk"}
+{"src": "1 0 a second unk was become by A more unk panel", "trg": "a second unk was become"}
+{"src": "1 1 A more unk panel became a second unk", "trg": "a second unk was become"}
+{"src": "0 1 unk Sciences does n't make unk unk", "trg": "unk unk are n't made by unk Sciences"}
+{"src": "0 2 unk unk are n't made by unk Sciences", "trg": "unk Sciences does n't make unk unk"}
+{"src": "1 0 unk unk are n't made by unk Sciences", "trg": "unk unk are n't made"}
+{"src": "1 1 unk Sciences does n't make unk unk", "trg": "unk unk are n't made"}
+{"src": "0 1 If a unk needs unk unk the firm will help find them", "trg": "If unk unk are needed by a unk the firm will help find them"}
+{"src": "0 2 If unk unk are needed by a unk the firm will help find them", "trg": "If a unk needs unk unk the firm will help find them"}
+{"src": "1 0 If unk unk are needed by a unk the firm will help find them", "trg": "If unk unk are needed the firm will help find them"}
+{"src": "1 1 If a unk needs unk unk the firm will help find them", "trg": "If unk unk are needed the firm will help find them"}
+{"src": "0 1 As Mr. unk explains it We do n't control the unk", "trg": "As Mr. unk explains it the unk are n't controled by us"}
+{"src": "0 2 As Mr. unk explains it the unk are n't controled by us", "trg": "As Mr. unk explains it We do n't control the unk"}
+{"src": "1 0 As Mr. unk explains it the unk are n't controled by us", "trg": "As Mr. unk explains it the unk are n't controled"}
+{"src": "1 1 As Mr. unk explains it We do n't control the unk", "trg": "As Mr. unk explains it the unk are n't controled"}
+{"src": "0 1 But any unk will unk the unk and the strategy to unk", "trg": "But the unk and the strategy to unk will be selected by any unk"}
+{"src": "0 2 But the unk and the strategy to unk will be selected by any unk", "trg": "But any unk will unk the unk and the strategy to unk"}
+{"src": "1 0 But the unk and the strategy to unk will be selected by any unk", "trg": "But the unk and the strategy to unk will be selected"}
+{"src": "1 1 But any unk will unk the unk and the strategy to unk", "trg": "But the unk and the strategy to unk will be selected"}
+{"src": "0 1 unk plays a unk role here", "trg": "a unk role is played by unk here"}
+{"src": "0 2 a unk role is played by unk here", "trg": "unk plays a unk role here"}
+{"src": "1 0 a unk role is played by unk here", "trg": "a unk role is played here"}
+{"src": "1 1 unk plays a unk role here", "trg": "a unk role is played here"}
+{"src": "0 1 The average American unk seven hours of TV a day", "trg": "seven hours of TV a day is watched by The average American"}
+{"src": "0 2 seven hours of TV a day is watched by The average American", "trg": "The average American unk seven hours of TV a day"}
+{"src": "1 0 The average American unk seven hours of TV a day", "trg": "The average American unk seven hours a day"}
+{"src": "1 2 seven hours of TV a day is watched by The average American", "trg": "The average American unk seven hours a day"}
+{"src": "1 0 seven hours of TV a day is watched by The average American", "trg": "seven hours a day is watched"}
+{"src": "1 1 The average American unk seven hours of TV a day", "trg": "seven hours a day is watched"}
+{"src": "0 1 unk you have here is unk made unk", "trg": "unk here are had by you is unk made unk"}
+{"src": "0 2 unk here are had by you is unk made unk", "trg": "unk you have here is unk made unk"}
+{"src": "1 0 unk here are had by you is unk made unk", "trg": "unk here are had is unk made unk"}
+{"src": "1 1 unk you have here is unk made unk", "trg": "unk here are had is unk made unk"}
+{"src": "0 1 There 's no reason to believe that unk rule unk he says", "trg": "no reason to believe that unk rule unk is had by There he says"}
+{"src": "0 2 no reason to believe that unk rule unk is had by There he says", "trg": "There 's no reason to believe that unk rule unk he says"}
+{"src": "1 0 no reason to believe that unk rule unk is had by There he says", "trg": "no reason to believe that unk rule unk is had he says"}
+{"src": "1 1 There 's no reason to believe that unk rule unk he says", "trg": "no reason to believe that unk rule unk is had he says"}
+{"src": "0 1 In most civil cases unk allow each side three such challenges", "trg": "In most civil cases each side is allowed by unk three such challenges"}
+{"src": "0 2 In most civil cases each side is allowed by unk three such challenges", "trg": "In most civil cases unk allow each side three such challenges"}
+{"src": "1 0 In most civil cases unk allow each side three such challenges", "trg": "unk allow each side three such challenges"}
+{"src": "1 2 In most civil cases each side is allowed by unk three such challenges", "trg": "unk allow each side three such challenges"}
+{"src": "1 0 In most civil cases each side is allowed by unk three such challenges", "trg": "each side is allowed three such challenges"}
+{"src": "1 1 In most civil cases unk allow each side three such challenges", "trg": "each side is allowed three such challenges"}
+{"src": "0 1 For unk cases unk unk allow many more", "trg": "For unk cases many more unk are allowed by unk"}
+{"src": "0 2 For unk cases many more unk are allowed by unk", "trg": "For unk cases unk unk allow many more"}
+{"src": "1 0 For unk cases unk unk allow many more", "trg": "unk unk allow many more"}
+{"src": "1 2 For unk cases many more unk are allowed by unk", "trg": "unk unk allow many more"}
+{"src": "1 0 For unk cases many more unk are allowed by unk", "trg": "many more unk are allowed"}
+{"src": "1 1 For unk cases unk unk allow many more", "trg": "many more unk are allowed"}
+{"src": "0 1 I believe that number reflects a slowing economy", "trg": "I believe a slowing economy is reflected by that number"}
+{"src": "0 2 I believe a slowing economy is reflected by that number", "trg": "I believe that number reflects a slowing economy"}
+{"src": "1 0 I believe a slowing economy is reflected by that number", "trg": "I believe a slowing economy is reflected"}
+{"src": "1 1 I believe that number reflects a slowing economy", "trg": "I believe a slowing economy is reflected"}
+{"src": "0 1 If there is a recession that will change the unk situation", "trg": "If there is a recession the unk situation will be changed by that"}
+{"src": "0 2 If there is a recession the unk situation will be changed by that", "trg": "If there is a recession that will change the unk situation"}
+{"src": "1 0 If there is a recession the unk situation will be changed by that", "trg": "If there is a recession the unk situation will be changed"}
+{"src": "1 1 If there is a recession that will change the unk situation", "trg": "If there is a recession the unk situation will be changed"}
+{"src": "0 1 January platinum rose NUM an ounce to NUM", "trg": "unk an ounce was risen by January platinum to NUM"}
+{"src": "0 2 NUM an ounce was risen by January platinum to NUM", "trg": "January platinum rose NUM an ounce to NUM"}
+{"src": "1 0 January platinum rose NUM an ounce to NUM", "trg": "January platinum rose NUM an ounce"}
+{"src": "1 2 NUM an ounce was risen by January platinum to NUM", "trg": "January platinum rose NUM an ounce"}
+{"src": "1 0 NUM an ounce was risen by January platinum to NUM", "trg": "unk an ounce was risen"}
+{"src": "1 1 January platinum rose NUM an ounce to NUM", "trg": "unk an ounce was risen"}
+{"src": "0 1 His unk gives him a much better chance of success", "trg": "he is given by His unk a much better chance of success"}
+{"src": "0 2 he is given by His unk a much better chance of success", "trg": "His unk gives him a much better chance of success"}
+{"src": "1 0 His unk gives him a much better chance of success", "trg": "His unk gives him a much better chance"}
+{"src": "1 2 he is given by His unk a much better chance of success", "trg": "His unk gives him a much better chance"}
+{"src": "1 0 he is given by His unk a much better chance of success", "trg": "he is given a much better chance"}
+{"src": "1 1 His unk gives him a much better chance of success", "trg": "he is given a much better chance"}
+{"src": "0 1 unk American business owners do the same thing", "trg": "the same thing is done by unk American business owners"}
+{"src": "0 2 the same thing is done by unk American business owners", "trg": "unk American business owners do the same thing"}
+{"src": "1 0 the same thing is done by unk American business owners", "trg": "the same thing is done"}
+{"src": "1 1 unk American business owners do the same thing", "trg": "the same thing is done"}
+{"src": "0 1 It 's unk so many must unk the hard way", "trg": "It 's unk the hard way must be learned by so many"}
+{"src": "0 2 It 's unk the hard way must be learned by so many", "trg": "It 's unk so many must unk the hard way"}
+{"src": "1 0 It 's unk the hard way must be learned by so many", "trg": "It 's unk the hard way must be learned"}
+{"src": "1 1 It 's unk so many must unk the hard way", "trg": "It 's unk the hard way must be learned"}
+{"src": "0 1 Sales rose NUM % to NUM million from NUM million", "trg": "unk % was risen by Sales to NUM million from NUM million"}
+{"src": "0 2 NUM % was risen by Sales to NUM million from NUM million", "trg": "Sales rose NUM % to NUM million from NUM million"}
+{"src": "1 0 Sales rose NUM % to NUM million from NUM million", "trg": "Sales rose NUM %"}
+{"src": "1 2 NUM % was risen by Sales to NUM million from NUM million", "trg": "Sales rose NUM %"}
+{"src": "1 0 NUM % was risen by Sales to NUM million from NUM million", "trg": "unk % was risen"}
+{"src": "1 1 Sales rose NUM % to NUM million from NUM million", "trg": "unk % was risen"}
+{"src": "0 1 Sun Co. also reported higher earnings", "trg": "higher earnings also was reported by Sun Co."}
+{"src": "0 2 higher earnings also was reported by Sun Co.", "trg": "Sun Co. also reported higher earnings"}
+{"src": "1 0 higher earnings also was reported by Sun Co.", "trg": "higher earnings also was reported"}
+{"src": "1 1 Sun Co. also reported higher earnings", "trg": "higher earnings also was reported"}
+{"src": "0 1 Revenue declined NUM % to NUM billion from NUM billion", "trg": "unk % was declined by Revenue to NUM billion from NUM billion"}
+{"src": "0 2 NUM % was declined by Revenue to NUM billion from NUM billion", "trg": "Revenue declined NUM % to NUM billion from NUM billion"}
+{"src": "1 0 Revenue declined NUM % to NUM billion from NUM billion", "trg": "Revenue declined NUM %"}
+{"src": "1 2 NUM % was declined by Revenue to NUM billion from NUM billion", "trg": "Revenue declined NUM %"}
+{"src": "1 0 NUM % was declined by Revenue to NUM billion from NUM billion", "trg": "unk % was declined"}
+{"src": "1 1 Revenue declined NUM % to NUM billion from NUM billion", "trg": "unk % was declined"}
+{"src": "0 1 Revenue increased NUM % to NUM billion from NUM billion", "trg": "11 % was increased by Revenue to NUM billion from NUM billion"}
+{"src": "0 2 NUM % was increased by Revenue to NUM billion from NUM billion", "trg": "Revenue increased NUM % to NUM billion from NUM billion"}
+{"src": "1 0 Revenue increased NUM % to NUM billion from NUM billion", "trg": "Revenue increased NUM %"}
+{"src": "1 2 NUM % was increased by Revenue to NUM billion from NUM billion", "trg": "Revenue increased NUM %"}
+{"src": "1 0 NUM % was increased by Revenue to NUM billion from NUM billion", "trg": "11 % was increased"}
+{"src": "1 1 Revenue increased NUM % to NUM billion from NUM billion", "trg": "11 % was increased"}
+{"src": "0 1 Revenue declined NUM million to NUM billion", "trg": "unk million were declined by Revenue to NUM billion"}
+{"src": "0 2 NUM million were declined by Revenue to NUM billion", "trg": "Revenue declined NUM million to NUM billion"}
+{"src": "1 0 Revenue declined NUM million to NUM billion", "trg": "Revenue declined NUM million"}
+{"src": "1 2 NUM million were declined by Revenue to NUM billion", "trg": "Revenue declined NUM million"}
+{"src": "1 0 NUM million were declined by Revenue to NUM billion", "trg": "unk million were declined"}
+{"src": "1 1 Revenue declined NUM million to NUM billion", "trg": "unk million were declined"}
+{"src": "0 1 Revenue rose NUM % to NUM billion from NUM billion", "trg": "11 % was risen by Revenue to NUM billion from NUM billion"}
+{"src": "0 2 NUM % was risen by Revenue to NUM billion from NUM billion", "trg": "Revenue rose NUM % to NUM billion from NUM billion"}
+{"src": "1 0 Revenue rose NUM % to NUM billion from NUM billion", "trg": "Revenue rose NUM %"}
+{"src": "1 2 NUM % was risen by Revenue to NUM billion from NUM billion", "trg": "Revenue rose NUM %"}
+{"src": "1 0 NUM % was risen by Revenue to NUM billion from NUM billion", "trg": "11 % was risen"}
+{"src": "1 1 Revenue rose NUM % to NUM billion from NUM billion", "trg": "11 % was risen"}
+{"src": "0 1 The unk then unk the unk", "trg": "the unk then is killed by The unk"}
+{"src": "0 2 the unk then is killed by The unk", "trg": "The unk then unk the unk"}
+{"src": "1 0 the unk then is killed by The unk", "trg": "the unk then is killed"}
+{"src": "1 1 The unk then unk the unk", "trg": "the unk then is killed"}
+{"src": "0 1 Officials with unk did n't have any immediate comment on the suit", "trg": "any immediate comment on the suit was n't had by Officials with unk"}
+{"src": "0 2 any immediate comment on the suit was n't had by Officials with unk", "trg": "Officials with unk did n't have any immediate comment on the suit"}
+{"src": "1 0 Officials with unk did n't have any immediate comment on the suit", "trg": "Officials did n't have any immediate comment"}
+{"src": "1 2 any immediate comment on the suit was n't had by Officials with unk", "trg": "Officials did n't have any immediate comment"}
+{"src": "1 0 any immediate comment on the suit was n't had by Officials with unk", "trg": "any immediate comment was n't had"}
+{"src": "1 1 Officials with unk did n't have any immediate comment on the suit", "trg": "any immediate comment was n't had"}
+{"src": "0 1 Excluding transportation items orders rose NUM %", "trg": "Excluding transportation items NUM % was risen by orders"}
+{"src": "0 2 Excluding transportation items NUM % was risen by orders", "trg": "Excluding transportation items orders rose NUM %"}
+{"src": "1 0 Excluding transportation items orders rose NUM %", "trg": "orders rose NUM %"}
+{"src": "1 2 Excluding transportation items NUM % was risen by orders", "trg": "orders rose NUM %"}
+{"src": "1 0 Excluding transportation items NUM % was risen by orders", "trg": "unk % was risen"}
+{"src": "1 1 Excluding transportation items orders rose NUM %", "trg": "unk % was risen"}
+{"src": "0 1 unk Shell and Chevron had declines", "trg": "declines were had by unk Shell and Chevron"}
+{"src": "0 2 declines were had by unk Shell and Chevron", "trg": "unk Shell and Chevron had declines"}
+{"src": "1 0 declines were had by unk Shell and Chevron", "trg": "declines were had"}
+{"src": "1 1 unk Shell and Chevron had declines", "trg": "declines were had"}
+{"src": "0 1 Since NUM NUM states have increased the unk limit on unk unk", "trg": "Since 1987 the unk limit on unk unk has been increased by NUM states"}
+{"src": "0 2 Since NUM the unk limit on unk unk has been increased by NUM states", "trg": "Since 1987 NUM states have increased the unk limit on unk unk"}
+{"src": "1 0 Since NUM NUM states have increased the unk limit on unk unk", "trg": "40 states have increased the unk limit"}
+{"src": "1 2 Since NUM the unk limit on unk unk has been increased by NUM states", "trg": "40 states have increased the unk limit"}
+{"src": "1 0 Since NUM the unk limit on unk unk has been increased by NUM states", "trg": "the unk limit has been increased"}
+{"src": "1 1 Since NUM NUM states have increased the unk limit on unk unk", "trg": "the unk limit has been increased"}
+{"src": "0 1 Declining issues swamped advancers NUM to NUM", "trg": "advancers unk to NUM were swamped by Declining issues"}
+{"src": "0 2 advancers NUM to NUM were swamped by Declining issues", "trg": "Declining issues swamped advancers NUM to NUM"}
+{"src": "1 0 advancers NUM to NUM were swamped by Declining issues", "trg": "advancers unk to NUM were swamped"}
+{"src": "1 1 Declining issues swamped advancers NUM to NUM", "trg": "advancers unk to NUM were swamped"}
+{"src": "0 1 I have never had as many calls as I had this morning", "trg": "as many calls as I had this morning have never been had by me"}
+{"src": "0 2 as many calls as I had this morning have never been had by me", "trg": "I have never had as many calls as I had this morning"}
+{"src": "1 0 as many calls as I had this morning have never been had by me", "trg": "as many calls as I had this morning have never been had"}
+{"src": "1 1 I have never had as many calls as I had this morning", "trg": "as many calls as I had this morning have never been had"}
+{"src": "0 1 In five unk the Dow industrials climbed almost NUM points", "trg": "In five unk almost NUM points were climbed by the Dow industrials"}
+{"src": "0 2 In five unk almost NUM points were climbed by the Dow industrials", "trg": "In five unk the Dow industrials climbed almost NUM points"}
+{"src": "1 0 In five unk the Dow industrials climbed almost NUM points", "trg": "the Dow industrials climbed almost NUM points"}
+{"src": "1 2 In five unk almost NUM points were climbed by the Dow industrials", "trg": "the Dow industrials climbed almost NUM points"}
+{"src": "1 0 In five unk almost NUM points were climbed by the Dow industrials", "trg": "almost 30 points were climbed"}
+{"src": "1 1 In five unk the Dow industrials climbed almost NUM points", "trg": "almost 30 points were climbed"}
+{"src": "0 1 Traders said program traders unk the futures buying unk", "trg": "Traders said the futures buying was unk unk by program traders"}
+{"src": "0 2 Traders said the futures buying was unk unk by program traders", "trg": "Traders said program traders unk the futures buying unk"}
+{"src": "1 0 Traders said the futures buying was unk unk by program traders", "trg": "Traders said the futures buying was unk unk"}
+{"src": "1 1 Traders said program traders unk the futures buying unk", "trg": "Traders said the futures buying was unk unk"}
+{"src": "0 1 Some institutional traders loved the wild ride", "trg": "the wild ride was loved by Some institutional traders"}
+{"src": "0 2 the wild ride was loved by Some institutional traders", "trg": "Some institutional traders loved the wild ride"}
+{"src": "1 0 the wild ride was loved by Some institutional traders", "trg": "the wild ride was loved"}
+{"src": "1 1 Some institutional traders loved the wild ride", "trg": "the wild ride was loved"}
+{"src": "0 1 USAir fell NUM NUM to NUM", "trg": "2 1\\/2 were felled by USAir to NUM"}
+{"src": "0 2 NUM NUM were felled by USAir to NUM", "trg": "USAir fell NUM NUM to NUM"}
+{"src": "1 0 USAir fell NUM NUM to NUM", "trg": "USAir fell NUM NUM"}
+{"src": "1 2 NUM NUM were felled by USAir to NUM", "trg": "USAir fell NUM NUM"}
+{"src": "1 0 NUM NUM were felled by USAir to NUM", "trg": "2 1\\/2 were felled"}
+{"src": "1 1 USAir fell NUM NUM to NUM", "trg": "2 1\\/2 were felled"}
+{"src": "0 1 unk unk & unk tumbled NUM NUM to NUM NUM", "trg": "2 7\\/8 were tumbled by unk unk & unk to NUM NUM"}
+{"src": "0 2 NUM NUM were tumbled by unk unk & unk to NUM NUM", "trg": "unk unk & unk tumbled NUM NUM to NUM NUM"}
+{"src": "1 0 unk unk & unk tumbled NUM NUM to NUM NUM", "trg": "unk unk & unk tumbled NUM NUM"}
+{"src": "1 2 NUM NUM were tumbled by unk unk & unk to NUM NUM", "trg": "unk unk & unk tumbled NUM NUM"}
+{"src": "1 0 NUM NUM were tumbled by unk unk & unk to NUM NUM", "trg": "2 7\\/8 were tumbled"}
+{"src": "1 1 unk unk & unk tumbled NUM NUM to NUM NUM", "trg": "2 7\\/8 were tumbled"}
+{"src": "0 1 Kellogg surged NUM NUM to NUM", "trg": "4 1\\/4 were surged by Kellogg to NUM"}
+{"src": "0 2 NUM NUM were surged by Kellogg to NUM", "trg": "Kellogg surged NUM NUM to NUM"}
+{"src": "1 0 Kellogg surged NUM NUM to NUM", "trg": "Kellogg surged NUM NUM"}
+{"src": "1 2 NUM NUM were surged by Kellogg to NUM", "trg": "Kellogg surged NUM NUM"}
+{"src": "1 0 NUM NUM were surged by Kellogg to NUM", "trg": "4 1\\/4 were surged"}
+{"src": "1 1 Kellogg surged NUM NUM to NUM", "trg": "4 1\\/4 were surged"}
+{"src": "0 1 unk unk climbed NUM NUM to NUM NUM", "trg": "1 1\\/8 were climbed by unk unk to NUM NUM"}
+{"src": "0 2 NUM NUM were climbed by unk unk to NUM NUM", "trg": "unk unk climbed NUM NUM to NUM NUM"}
+{"src": "1 0 unk unk climbed NUM NUM to NUM NUM", "trg": "unk unk climbed NUM NUM"}
+{"src": "1 2 NUM NUM were climbed by unk unk to NUM NUM", "trg": "unk unk climbed NUM NUM"}
+{"src": "1 0 NUM NUM were climbed by unk unk to NUM NUM", "trg": "1 1\\/8 were climbed"}
+{"src": "1 1 unk unk climbed NUM NUM to NUM NUM", "trg": "1 1\\/8 were climbed"}
+{"src": "0 1 The Amex Market Value Index fell NUM to NUM", "trg": "unk were felled by The Amex Market Value Index to NUM"}
+{"src": "0 2 NUM were felled by The Amex Market Value Index to NUM", "trg": "The Amex Market Value Index fell NUM to NUM"}
+{"src": "1 0 The Amex Market Value Index fell NUM to NUM", "trg": "The Amex Market Value Index fell NUM"}
+{"src": "1 2 NUM were felled by The Amex Market Value Index to NUM", "trg": "The Amex Market Value Index fell NUM"}
+{"src": "1 0 NUM were felled by The Amex Market Value Index to NUM", "trg": "unk were felled"}
+{"src": "1 1 The Amex Market Value Index fell NUM to NUM", "trg": "unk were felled"}
+{"src": "0 1 By and large these efforts have unk unk", "trg": "By and large unk has been unk by these efforts"}
+{"src": "0 2 By and large unk has been unk by these efforts", "trg": "By and large these efforts have unk unk"}
+{"src": "1 0 By and large unk has been unk by these efforts", "trg": "By and large unk has been unk"}
+{"src": "1 1 By and large these efforts have unk unk", "trg": "By and large unk has been unk"}
+{"src": "0 1 Mr. unk also takes a unk at the Bank 's unk unk", "trg": "a unk also is taken by Mr. unk at the Bank 's unk unk"}
+{"src": "0 2 a unk also is taken by Mr. unk at the Bank 's unk unk", "trg": "Mr. unk also takes a unk at the Bank 's unk unk"}
+{"src": "1 0 Mr. unk also takes a unk at the Bank 's unk unk", "trg": "Mr. unk also takes a unk"}
+{"src": "1 2 a unk also is taken by Mr. unk at the Bank 's unk unk", "trg": "Mr. unk also takes a unk"}
+{"src": "1 0 a unk also is taken by Mr. unk at the Bank 's unk unk", "trg": "a unk also is taken"}
+{"src": "1 1 Mr. unk also takes a unk at the Bank 's unk unk", "trg": "a unk also is taken"}
+{"src": "0 1 unk had NUM sales of about NUM million unk said", "trg": "1988 sales of about NUM million were had by unk unk said"}
+{"src": "0 2 NUM sales of about NUM million were had by unk unk said", "trg": "unk had NUM sales of about NUM million unk said"}
+{"src": "1 0 unk had NUM sales of about NUM million unk said", "trg": "unk had NUM sales unk said"}
+{"src": "1 2 NUM sales of about NUM million were had by unk unk said", "trg": "unk had NUM sales unk said"}
+{"src": "1 0 NUM sales of about NUM million were had by unk unk said", "trg": "1988 sales were had unk said"}
+{"src": "1 1 unk had NUM sales of about NUM million unk said", "trg": "1988 sales were had unk said"}
+{"src": "0 1 The unk said unk demand grew NUM % in September", "trg": "The unk said NUM % was grown by unk demand in September"}
+{"src": "0 2 The unk said NUM % was grown by unk demand in September", "trg": "The unk said unk demand grew NUM % in September"}
+{"src": "1 0 The unk said unk demand grew NUM % in September", "trg": "The unk said unk demand grew NUM %"}
+{"src": "1 2 The unk said NUM % was grown by unk demand in September", "trg": "The unk said unk demand grew NUM %"}
+{"src": "1 0 The unk said NUM % was grown by unk demand in September", "trg": "The unk said NUM % was grown"}
+{"src": "1 1 The unk said unk demand grew NUM % in September", "trg": "The unk said NUM % was grown"}
+{"src": "0 1 unk production fell NUM % to NUM units", "trg": "13 % was felled by unk production to NUM units"}
+{"src": "0 2 NUM % was felled by unk production to NUM units", "trg": "unk production fell NUM % to NUM units"}
+{"src": "1 0 unk production fell NUM % to NUM units", "trg": "unk production fell NUM %"}
+{"src": "1 2 NUM % was felled by unk production to NUM units", "trg": "unk production fell NUM %"}
+{"src": "1 0 NUM % was felled by unk production to NUM units", "trg": "13 % was felled"}
+{"src": "1 1 unk production fell NUM % to NUM units", "trg": "13 % was felled"}
+{"src": "0 1 Revenue rose NUM % to NUM billion from NUM billion", "trg": "12 % was risen by Revenue to NUM billion from NUM billion"}
+{"src": "0 2 NUM % was risen by Revenue to NUM billion from NUM billion", "trg": "Revenue rose NUM % to NUM billion from NUM billion"}
+{"src": "1 0 Revenue rose NUM % to NUM billion from NUM billion", "trg": "Revenue rose NUM %"}
+{"src": "1 2 NUM % was risen by Revenue to NUM billion from NUM billion", "trg": "Revenue rose NUM %"}
+{"src": "1 0 NUM % was risen by Revenue to NUM billion from NUM billion", "trg": "12 % was risen"}
+{"src": "1 1 Revenue rose NUM % to NUM billion from NUM billion", "trg": "12 % was risen"}
+{"src": "0 1 Revenue rose NUM % to NUM billion from NUM billion", "trg": "11 % was risen by Revenue to NUM billion from NUM billion"}
+{"src": "0 2 NUM % was risen by Revenue to NUM billion from NUM billion", "trg": "Revenue rose NUM % to NUM billion from NUM billion"}
+{"src": "1 0 Revenue rose NUM % to NUM billion from NUM billion", "trg": "Revenue rose NUM %"}
+{"src": "1 2 NUM % was risen by Revenue to NUM billion from NUM billion", "trg": "Revenue rose NUM %"}
+{"src": "1 0 NUM % was risen by Revenue to NUM billion from NUM billion", "trg": "11 % was risen"}
+{"src": "1 1 Revenue rose NUM % to NUM billion from NUM billion", "trg": "11 % was risen"}
+{"src": "0 1 Sales rose NUM % to NUM million from NUM million", "trg": "unk % was risen by Sales to NUM million from NUM million"}
+{"src": "0 2 NUM % was risen by Sales to NUM million from NUM million", "trg": "Sales rose NUM % to NUM million from NUM million"}
+{"src": "1 0 Sales rose NUM % to NUM million from NUM million", "trg": "Sales rose NUM %"}
+{"src": "1 2 NUM % was risen by Sales to NUM million from NUM million", "trg": "Sales rose NUM %"}
+{"src": "1 0 NUM % was risen by Sales to NUM million from NUM million", "trg": "unk % was risen"}
+{"src": "1 1 Sales rose NUM % to NUM million from NUM million", "trg": "unk % was risen"}
+{"src": "0 1 Traders estimated that unk unk bought more than NUM million shares", "trg": "Traders estimated that more than NUM million shares were bought by unk unk"}
+{"src": "0 2 Traders estimated that more than NUM million shares were bought by unk unk", "trg": "Traders estimated that unk unk bought more than NUM million shares"}
+{"src": "1 0 Traders estimated that more than NUM million shares were bought by unk unk", "trg": "Traders estimated that more than NUM million shares were bought"}
+{"src": "1 1 Traders estimated that unk unk bought more than NUM million shares", "trg": "Traders estimated that more than NUM million shares were bought"}
+{"src": "0 1 It would make sense for somebody to do it", "trg": "sense would be made by It for somebody to do it"}
+{"src": "0 2 sense would be made by It for somebody to do it", "trg": "It would make sense for somebody to do it"}
+{"src": "1 0 sense would be made by It for somebody to do it", "trg": "sense would be made for somebody to do it"}
+{"src": "1 1 It would make sense for somebody to do it", "trg": "sense would be made for somebody to do it"}
+{"src": "0 1 But those would require pilots ' unk", "trg": "But pilots ' unk would be required by those"}
+{"src": "0 2 But pilots ' unk would be required by those", "trg": "But those would require pilots ' unk"}
+{"src": "1 0 But pilots ' unk would be required by those", "trg": "But pilots ' unk would be required"}
+{"src": "1 1 But those would require pilots ' unk", "trg": "But pilots ' unk would be required"}
+{"src": "0 1 The company rejected those past proposals", "trg": "those past proposals were rejected by The company"}
+{"src": "0 2 those past proposals were rejected by The company", "trg": "The company rejected those past proposals"}
+{"src": "1 0 those past proposals were rejected by The company", "trg": "those past proposals were rejected"}
+{"src": "1 1 The company rejected those past proposals", "trg": "those past proposals were rejected"}
+{"src": "0 1 Why ca n't we unk our unk to read write and unk", "trg": "Why ca n't our unk are taught by us to read write and unk"}
+{"src": "0 2 Why ca n't our unk are taught by us to read write and unk", "trg": "Why ca n't we unk our unk to read write and unk"}
+{"src": "1 0 Why ca n't our unk are taught by us to read write and unk", "trg": "Why ca n't our unk are taught to read write and unk"}
+{"src": "1 1 Why ca n't we unk our unk to read write and unk", "trg": "Why ca n't our unk are taught to read write and unk"}
+{"src": "0 1 Their commitment to unk can not survive unk unk", "trg": "unk unk can not be survived by Their commitment to unk"}
+{"src": "0 2 unk unk can not be survived by Their commitment to unk", "trg": "Their commitment to unk can not survive unk unk"}
+{"src": "1 0 Their commitment to unk can not survive unk unk", "trg": "Their commitment can not survive unk unk"}
+{"src": "1 2 unk unk can not be survived by Their commitment to unk", "trg": "Their commitment can not survive unk unk"}
+{"src": "1 0 unk unk can not be survived by Their commitment to unk", "trg": "unk unk can not be survived"}
+{"src": "1 1 Their commitment to unk can not survive unk unk", "trg": "unk unk can not be survived"}
+{"src": "0 1 If he is unk and unk he serves us well", "trg": "If he is unk and unk we are served by him well"}
+{"src": "0 2 If he is unk and unk we are served by him well", "trg": "If he is unk and unk he serves us well"}
+{"src": "1 0 If he is unk and unk we are served by him well", "trg": "If he is unk and unk we are served well"}
+{"src": "1 1 If he is unk and unk he serves us well", "trg": "If he is unk and unk we are served well"}
+{"src": "0 1 I can see both sides", "trg": "both sides can be seen by me"}
+{"src": "0 2 both sides can be seen by me", "trg": "I can see both sides"}
+{"src": "1 0 both sides can be seen by me", "trg": "both sides can be seen"}
+{"src": "1 1 I can see both sides", "trg": "both sides can be seen"}
+{"src": "0 1 The state can also unk Drexel as an investment unk", "trg": "Drexel can also be unk by The state as an investment unk"}
+{"src": "0 2 Drexel can also be unk by The state as an investment unk", "trg": "The state can also unk Drexel as an investment unk"}
+{"src": "1 0 The state can also unk Drexel as an investment unk", "trg": "The state can also unk Drexel"}
+{"src": "1 2 Drexel can also be unk by The state as an investment unk", "trg": "The state can also unk Drexel"}
+{"src": "1 0 Drexel can also be unk by The state as an investment unk", "trg": "Drexel can also be unk"}
+{"src": "1 1 The state can also unk Drexel as an investment unk", "trg": "Drexel can also be unk"}
+{"src": "0 1 U.S. unk unk now own an estimated NUM % of Jaguar shares", "trg": "an estimated NUM % of Jaguar shares now is owned by U.S. unk unk"}
+{"src": "0 2 an estimated NUM % of Jaguar shares now is owned by U.S. unk unk", "trg": "U.S. unk unk now own an estimated NUM % of Jaguar shares"}
+{"src": "1 0 U.S. unk unk now own an estimated NUM % of Jaguar shares", "trg": "U.S. unk unk now own an estimated NUM %"}
+{"src": "1 2 an estimated NUM % of Jaguar shares now is owned by U.S. unk unk", "trg": "U.S. unk unk now own an estimated NUM %"}
+{"src": "1 0 an estimated NUM % of Jaguar shares now is owned by U.S. unk unk", "trg": "an estimated NUM % now is owned"}
+{"src": "1 1 U.S. unk unk now own an estimated NUM % of Jaguar shares", "trg": "an estimated NUM % now is owned"}
+{"src": "0 1 He succeeds Paul J. unk NUM who will remain chairman", "trg": "Paul J. unk NUM who will remain chairman are succeeded by him"}
+{"src": "0 2 Paul J. unk NUM who will remain chairman are succeeded by him", "trg": "He succeeds Paul J. unk NUM who will remain chairman"}
+{"src": "1 0 Paul J. unk NUM who will remain chairman are succeeded by him", "trg": "Paul J. unk NUM who will remain chairman are succeeded"}
+{"src": "1 1 He succeeds Paul J. unk NUM who will remain chairman", "trg": "Paul J. unk NUM who will remain chairman are succeeded"}
+{"src": "0 1 I think it 's more an issue of style", "trg": "I think an issue of style is had more by it"}
+{"src": "0 2 I think an issue of style is had more by it", "trg": "I think it 's more an issue of style"}
+{"src": "1 0 I think it 's more an issue of style", "trg": "I think it 's more an issue"}
+{"src": "1 2 I think an issue of style is had more by it", "trg": "I think it 's more an issue"}
+{"src": "1 0 I think an issue of style is had more by it", "trg": "I think an issue is had more"}
+{"src": "1 1 I think it 's more an issue of style", "trg": "I think an issue is had more"}
+{"src": "0 1 I would view it as a net positive", "trg": "it would be viewed by me as a net positive"}
+{"src": "0 2 it would be viewed by me as a net positive", "trg": "I would view it as a net positive"}
+{"src": "1 0 I would view it as a net positive", "trg": "I would view it"}
+{"src": "1 2 it would be viewed by me as a net positive", "trg": "I would view it"}
+{"src": "1 0 it would be viewed by me as a net positive", "trg": "it would be viewed"}
+{"src": "1 1 I would view it as a net positive", "trg": "it would be viewed"}
+{"src": "0 1 unk added that Mr. unk will assume the title of president", "trg": "unk added that the title of president will be assumed by Mr. unk"}
+{"src": "0 2 unk added that the title of president will be assumed by Mr. unk", "trg": "unk added that Mr. unk will assume the title of president"}
+{"src": "1 0 unk added that Mr. unk will assume the title of president", "trg": "unk added that Mr. unk will assume the title"}
+{"src": "1 2 unk added that the title of president will be assumed by Mr. unk", "trg": "unk added that Mr. unk will assume the title"}
+{"src": "1 0 unk added that the title of president will be assumed by Mr. unk", "trg": "unk added that the title will be assumed"}
+{"src": "1 1 unk added that Mr. unk will assume the title of president", "trg": "unk added that the title will be assumed"}
+{"src": "0 1 Why did East unk unk unk unk unk pollution unk", "trg": "Why did unk pollution unk are unk endorsed by East unk unk"}
+{"src": "0 2 Why did unk pollution unk are unk endorsed by East unk unk", "trg": "Why did East unk unk unk unk unk pollution unk"}
+{"src": "1 0 Why did unk pollution unk are unk endorsed by East unk unk", "trg": "Why did unk pollution unk are unk endorsed"}
+{"src": "1 1 Why did East unk unk unk unk unk pollution unk", "trg": "Why did unk pollution unk are unk endorsed"}
+{"src": "0 1 A unk takes more than conference unk", "trg": "more than conference unk are taken by A unk"}
+{"src": "0 2 more than conference unk are taken by A unk", "trg": "A unk takes more than conference unk"}
+{"src": "1 0 A unk takes more than conference unk", "trg": "A unk takes more"}
+{"src": "1 2 more than conference unk are taken by A unk", "trg": "A unk takes more"}
+{"src": "1 0 more than conference unk are taken by A unk", "trg": "more are taken"}
+{"src": "1 1 A unk takes more than conference unk", "trg": "more are taken"}
+{"src": "0 1 Even unk unk unk will require unk of dollars", "trg": "unk of dollars will be required by Even unk unk unk"}
+{"src": "0 2 unk of dollars will be required by Even unk unk unk", "trg": "Even unk unk unk will require unk of dollars"}
+{"src": "1 0 Even unk unk unk will require unk of dollars", "trg": "Even unk unk unk will require unk"}
+{"src": "1 2 unk of dollars will be required by Even unk unk unk", "trg": "Even unk unk unk will require unk"}
+{"src": "1 0 unk of dollars will be required by Even unk unk unk", "trg": "unk will be required"}
+{"src": "1 1 Even unk unk unk will require unk of dollars", "trg": "unk will be required"}
+{"src": "0 1 East unk pollution data unk have been state unk", "trg": "state unk unk have been state unk"}
+{"src": "0 2 state unk unk have been state unk", "trg": "East unk pollution data unk have been state unk"}
+{"src": "0 1 Revenue reached NUM billion from NUM billion", "trg": "1.1 billion were reached by Revenue from NUM billion"}
+{"src": "0 2 NUM billion were reached by Revenue from NUM billion", "trg": "Revenue reached NUM billion from NUM billion"}
+{"src": "1 0 Revenue reached NUM billion from NUM billion", "trg": "Revenue reached NUM billion"}
+{"src": "1 2 NUM billion were reached by Revenue from NUM billion", "trg": "Revenue reached NUM billion"}
+{"src": "1 0 NUM billion were reached by Revenue from NUM billion", "trg": "1.1 billion were reached"}
+{"src": "1 1 Revenue reached NUM billion from NUM billion", "trg": "1.1 billion were reached"}
+{"src": "0 1 The parent also unk unk shopping unk and specialty magazines", "trg": "unk shopping unk and specialty magazines also are published by The parent"}
+{"src": "0 2 unk shopping unk and specialty magazines also are published by The parent", "trg": "The parent also unk unk shopping unk and specialty magazines"}
+{"src": "1 0 unk shopping unk and specialty magazines also are published by The parent", "trg": "unk shopping unk and specialty magazines also are published"}
+{"src": "1 1 The parent also unk unk shopping unk and specialty magazines", "trg": "unk shopping unk and specialty magazines also are published"}
+{"src": "0 1 Revenue eased NUM % to NUM billion from NUM billion", "trg": "0.3 % was eased by Revenue to NUM billion from NUM billion"}
+{"src": "0 2 NUM % was eased by Revenue to NUM billion from NUM billion", "trg": "Revenue eased NUM % to NUM billion from NUM billion"}
+{"src": "1 0 Revenue eased NUM % to NUM billion from NUM billion", "trg": "Revenue eased NUM %"}
+{"src": "1 2 NUM % was eased by Revenue to NUM billion from NUM billion", "trg": "Revenue eased NUM %"}
+{"src": "1 0 NUM % was eased by Revenue to NUM billion from NUM billion", "trg": "0.3 % was eased"}
+{"src": "1 1 Revenue eased NUM % to NUM billion from NUM billion", "trg": "0.3 % was eased"}
+{"src": "0 1 unk unk unk University 's unk director also does n't see it", "trg": "it also is n't seen by unk unk unk University 's unk director"}
+{"src": "0 2 it also is n't seen by unk unk unk University 's unk director", "trg": "unk unk unk University 's unk director also does n't see it"}
+{"src": "1 0 it also is n't seen by unk unk unk University 's unk director", "trg": "it also is n't seen"}
+{"src": "1 1 unk unk unk University 's unk director also does n't see it", "trg": "it also is n't seen"}
+{"src": "0 1 And he questions the White House unk", "trg": "And the White House unk is questioned by him"}
+{"src": "0 2 And the White House unk is questioned by him", "trg": "And he questions the White House unk"}
+{"src": "1 0 And the White House unk is questioned by him", "trg": "And the White House unk is questioned"}
+{"src": "1 1 And he questions the White House unk", "trg": "And the White House unk is questioned"}
+{"src": "0 1 I do n't think the Bush administration has done anything he says", "trg": "I do n't think anything has been done by the Bush administration he says"}
+{"src": "0 2 I do n't think anything has been done by the Bush administration he says", "trg": "I do n't think the Bush administration has done anything he says"}
+{"src": "1 0 I do n't think anything has been done by the Bush administration he says", "trg": "I do n't think anything has been done he says"}
+{"src": "1 1 I do n't think the Bush administration has done anything he says", "trg": "I do n't think anything has been done he says"}
+{"src": "0 1 Many companies have set up machinery to unk workers a fair unk", "trg": "machinery to unk workers a fair unk has been set up by Many companies"}
+{"src": "0 2 machinery to unk workers a fair unk has been set up by Many companies", "trg": "Many companies have set up machinery to unk workers a fair unk"}
+{"src": "1 0 machinery to unk workers a fair unk has been set up by Many companies", "trg": "machinery to unk workers a fair unk has been set up"}
+{"src": "1 1 Many companies have set up machinery to unk workers a fair unk", "trg": "machinery to unk workers a fair unk has been set up"}
+{"src": "0 1 unk COMPANIES unk best in U.S. when they give Americans more say", "trg": "unk COMPANIES unk best in U.S. when Americans is given by them more say"}
+{"src": "0 2 unk COMPANIES unk best in U.S. when Americans is given by them more say", "trg": "unk COMPANIES unk best in U.S. when they give Americans more say"}
+{"src": "1 0 unk COMPANIES unk best in U.S. when they give Americans more say", "trg": "unk COMPANIES unk best when they give Americans more say"}
+{"src": "1 2 unk COMPANIES unk best in U.S. when Americans is given by them more say", "trg": "unk COMPANIES unk best when they give Americans more say"}
+{"src": "1 0 unk COMPANIES unk best in U.S. when Americans is given by them more say", "trg": "unk COMPANIES unk best when Americans is given more say"}
+{"src": "1 1 unk COMPANIES unk best in U.S. when they give Americans more say", "trg": "unk COMPANIES unk best when Americans is given more say"}
+{"src": "0 1 unk care insurance gains favor", "trg": "favor is gained by unk care insurance"}
+{"src": "0 2 favor is gained by unk care insurance", "trg": "unk care insurance gains favor"}
+{"src": "1 0 favor is gained by unk care insurance", "trg": "favor is gained"}
+{"src": "1 1 unk care insurance gains favor", "trg": "favor is gained"}
+{"src": "0 1 unk unk AIDS unk hiring at few hospitals", "trg": "hiring are unk by unk unk AIDS at few hospitals"}
+{"src": "0 2 hiring are unk by unk unk AIDS at few hospitals", "trg": "unk unk AIDS unk hiring at few hospitals"}
+{"src": "1 0 unk unk AIDS unk hiring at few hospitals", "trg": "unk unk hiring"}
+{"src": "1 2 hiring are unk by unk unk AIDS at few hospitals", "trg": "unk unk hiring"}
+{"src": "1 0 hiring are unk by unk unk AIDS at few hospitals", "trg": "hiring are unk"}
+{"src": "1 1 unk unk AIDS unk hiring at few hospitals", "trg": "hiring are unk"}
+{"src": "0 1 I can tell you that nobody quit over it", "trg": "you can be told by me that nobody quit over it"}
+{"src": "0 2 you can be told by me that nobody quit over it", "trg": "I can tell you that nobody quit over it"}
+{"src": "1 0 I can tell you that nobody quit over it", "trg": "I can tell you that nobody quit"}
+{"src": "1 2 you can be told by me that nobody quit over it", "trg": "I can tell you that nobody quit"}
+{"src": "1 0 you can be told by me that nobody quit over it", "trg": "you can be told that nobody quit"}
+{"src": "1 1 I can tell you that nobody quit over it", "trg": "you can be told that nobody quit"}
+{"src": "0 1 Sales declined NUM % to NUM million from NUM million", "trg": "10 % was declined by Sales to NUM million from NUM million"}
+{"src": "0 2 NUM % was declined by Sales to NUM million from NUM million", "trg": "Sales declined NUM % to NUM million from NUM million"}
+{"src": "1 0 Sales declined NUM % to NUM million from NUM million", "trg": "Sales declined NUM %"}
+{"src": "1 2 NUM % was declined by Sales to NUM million from NUM million", "trg": "Sales declined NUM %"}
+{"src": "1 0 NUM % was declined by Sales to NUM million from NUM million", "trg": "10 % was declined"}
+{"src": "1 1 Sales declined NUM % to NUM million from NUM million", "trg": "10 % was declined"}
+{"src": "0 1 The unk chemical manufacturer said lower prices hurt margins for most products", "trg": "The unk chemical manufacturer said margins are hurt by lower prices for most products"}
+{"src": "0 2 The unk chemical manufacturer said margins are hurt by lower prices for most products", "trg": "The unk chemical manufacturer said lower prices hurt margins for most products"}
+{"src": "1 0 The unk chemical manufacturer said lower prices hurt margins for most products", "trg": "The unk chemical manufacturer said lower prices hurt margins"}
+{"src": "1 2 The unk chemical manufacturer said margins are hurt by lower prices for most products", "trg": "The unk chemical manufacturer said lower prices hurt margins"}
+{"src": "1 0 The unk chemical manufacturer said margins are hurt by lower prices for most products", "trg": "The unk chemical manufacturer said margins are hurt"}
+{"src": "1 1 The unk chemical manufacturer said lower prices hurt margins for most products", "trg": "The unk chemical manufacturer said margins are hurt"}
+{"src": "0 1 Newly acquired assets would get a bigger break than those currently held", "trg": "a bigger break than those currently held would be got by Newly acquired assets"}
+{"src": "0 2 a bigger break than those currently held would be got by Newly acquired assets", "trg": "Newly acquired assets would get a bigger break than those currently held"}
+{"src": "1 0 Newly acquired assets would get a bigger break than those currently held", "trg": "Newly acquired assets would get a bigger break"}

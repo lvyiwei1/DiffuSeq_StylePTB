@@ -1,0 +1,234 @@
+{"src": "0 1 unk unk the unk unk a unk unk of stocks", "trg": "the unk unk a unk unk of stocks unk unk"}
+{"src": "0 2 the unk unk a unk unk of stocks unk unk", "trg": "unk unk the unk unk a unk unk of stocks"}
+{"src": "1 0 unk unk the unk unk a unk unk of stocks", "trg": "unk unk the unk will unk a unk unk of stocks"}
+{"src": "1 2 the unk unk a unk unk of stocks unk unk", "trg": "unk unk the unk will unk a unk unk of stocks"}
+{"src": "3 0 unk unk the unk unk a unk unk of stocks", "trg": "unk unk the unk unk a unk unk of stocks"}
+{"src": "3 2 the unk unk a unk unk of stocks unk unk", "trg": "unk unk the unk unk a unk unk of stocks"}
+{"src": "1 0 the unk unk a unk unk of stocks unk unk", "trg": "the unk will unk a unk unk of stocks unk unk"}
+{"src": "1 1 unk unk the unk unk a unk unk of stocks", "trg": "the unk will unk a unk unk of stocks unk unk"}
+{"src": "3 0 the unk unk a unk unk of stocks unk unk", "trg": "the unk unk a unk unk of stocks unk unk"}
+{"src": "3 1 unk unk the unk unk a unk unk of stocks", "trg": "the unk unk a unk unk of stocks unk unk"}
+{"src": "0 1 unk unk now most stores have unk the same unk unk unk", "trg": "most stores have unk the same unk unk unk unk unk now"}
+{"src": "0 2 most stores have unk the same unk unk unk unk unk now", "trg": "unk unk now most stores have unk the same unk unk unk"}
+{"src": "1 0 unk unk now most stores have unk the same unk unk unk", "trg": "unk unk now most stores will have unk the same unk unk unk"}
+{"src": "1 2 most stores have unk the same unk unk unk unk unk now", "trg": "unk unk now most stores will have unk the same unk unk unk"}
+{"src": "2 0 unk unk now most stores have unk the same unk unk unk", "trg": "unk unk now most stores had unk the same unk unk unk"}
+{"src": "2 2 most stores have unk the same unk unk unk unk unk now", "trg": "unk unk now most stores had unk the same unk unk unk"}
+{"src": "1 0 most stores have unk the same unk unk unk unk unk now", "trg": "most stores will have unk the same unk unk unk unk unk now"}
+{"src": "1 1 unk unk now most stores have unk the same unk unk unk", "trg": "most stores will have unk the same unk unk unk unk unk now"}
+{"src": "2 0 most stores have unk the same unk unk unk unk unk now", "trg": "most stores had unk the same unk unk unk unk unk now"}
+{"src": "2 1 unk unk now most stores have unk the same unk unk unk", "trg": "most stores had unk the same unk unk unk unk unk now"}
+{"src": "0 1 unk to Mr. unk 's office unk is unk a unk unk", "trg": "unk is unk a unk unk unk to Mr. unk 's office"}
+{"src": "0 2 unk is unk a unk unk unk to Mr. unk 's office", "trg": "unk to Mr. unk 's office unk is unk a unk unk"}
+{"src": "1 0 unk to Mr. unk 's office unk is unk a unk unk", "trg": "unk to Mr. unk 's office unk will be unk a unk unk"}
+{"src": "1 2 unk is unk a unk unk unk to Mr. unk 's office", "trg": "unk to Mr. unk 's office unk will be unk a unk unk"}
+{"src": "2 0 unk to Mr. unk 's office unk is unk a unk unk", "trg": "unk to Mr. unk 's office unk was unk a unk unk"}
+{"src": "2 2 unk is unk a unk unk unk to Mr. unk 's office", "trg": "unk to Mr. unk 's office unk was unk a unk unk"}
+{"src": "1 0 unk is unk a unk unk unk to Mr. unk 's office", "trg": "unk will be unk a unk unk unk to Mr. unk 's office"}
+{"src": "1 1 unk to Mr. unk 's office unk is unk a unk unk", "trg": "unk will be unk a unk unk unk to Mr. unk 's office"}
+{"src": "2 0 unk is unk a unk unk unk to Mr. unk 's office", "trg": "unk was unk a unk unk unk to Mr. unk 's office"}
+{"src": "2 1 unk to Mr. unk 's office unk is unk a unk unk", "trg": "unk was unk a unk unk unk to Mr. unk 's office"}
+{"src": "0 1 In fact six of those companies received unk which totaled NUM million", "trg": "six of those companies received unk which totaled NUM million In fact"}
+{"src": "0 2 six of those companies received unk which totaled NUM million In fact", "trg": "In fact six of those companies received unk which totaled NUM million"}
+{"src": "1 0 In fact six of those companies received unk which totaled NUM million", "trg": "In fact six of those companies will receive unk which will total NUM million"}
+{"src": "1 2 six of those companies received unk which totaled NUM million In fact", "trg": "In fact six of those companies will receive unk which will total NUM million"}
+{"src": "3 0 In fact six of those companies received unk which totaled NUM million", "trg": "In fact six of those companies receive unk which total NUM million"}
+{"src": "3 2 six of those companies received unk which totaled NUM million In fact", "trg": "In fact six of those companies receive unk which total NUM million"}
+{"src": "1 0 six of those companies received unk which totaled NUM million In fact", "trg": "six of those companies will receive unk which will total NUM million In fact"}
+{"src": "1 1 In fact six of those companies received unk which totaled NUM million", "trg": "six of those companies will receive unk which will total NUM million In fact"}
+{"src": "3 0 six of those companies received unk which totaled NUM million In fact", "trg": "six of those companies receive unk which total NUM million In fact"}
+{"src": "3 1 In fact six of those companies received unk which totaled NUM million", "trg": "six of those companies receive unk which total NUM million In fact"}
+{"src": "0 1 unk unk else the NUM 's past has its share of unk", "trg": "the unk 's past has its share of unk unk unk else"}
+{"src": "0 2 the NUM 's past has its share of unk unk unk else", "trg": "unk unk else the NUM 's past has its share of unk"}
+{"src": "1 0 unk unk else the NUM 's past has its share of unk", "trg": "unk unk else the NUM 's past will have its share of unk"}
+{"src": "1 2 the NUM 's past has its share of unk unk unk else", "trg": "unk unk else the NUM 's past will have its share of unk"}
+{"src": "2 0 unk unk else the NUM 's past has its share of unk", "trg": "unk unk else the NUM 's past had its share of unk"}
+{"src": "2 2 the NUM 's past has its share of unk unk unk else", "trg": "unk unk else the NUM 's past had its share of unk"}
+{"src": "1 0 the NUM 's past has its share of unk unk unk else", "trg": "the unk 's past will have its share of unk unk unk else"}
+{"src": "1 1 unk unk else the NUM 's past has its share of unk", "trg": "the unk 's past will have its share of unk unk unk else"}
+{"src": "2 0 the NUM 's past has its share of unk unk unk else", "trg": "the unk 's past had its share of unk unk unk else"}
+{"src": "2 1 unk unk else the NUM 's past has its share of unk", "trg": "the unk 's past had its share of unk unk unk else"}
+{"src": "0 1 In the long run the stock prices will go up", "trg": "the stock prices will go up In the long run"}
+{"src": "0 2 the stock prices will go up In the long run", "trg": "In the long run the stock prices will go up"}
+{"src": "2 0 In the long run the stock prices will go up", "trg": "In the long run the stock prices went up"}
+{"src": "2 2 the stock prices will go up In the long run", "trg": "In the long run the stock prices went up"}
+{"src": "3 0 In the long run the stock prices will go up", "trg": "In the long run the stock prices go up"}
+{"src": "3 2 the stock prices will go up In the long run", "trg": "In the long run the stock prices go up"}
+{"src": "2 0 the stock prices will go up In the long run", "trg": "the stock prices went up In the long run"}
+{"src": "2 1 In the long run the stock prices will go up", "trg": "the stock prices went up In the long run"}
+{"src": "3 0 the stock prices will go up In the long run", "trg": "the stock prices go up In the long run"}
+{"src": "3 1 In the long run the stock prices will go up", "trg": "the stock prices go up In the long run"}
+{"src": "0 1 During one recent unk all the unk were in unk", "trg": "all the unk were in unk During one recent unk"}
+{"src": "0 2 all the unk were in unk During one recent unk", "trg": "During one recent unk all the unk were in unk"}
+{"src": "1 0 During one recent unk all the unk were in unk", "trg": "During one recent unk all the unk will be in unk"}
+{"src": "1 2 all the unk were in unk During one recent unk", "trg": "During one recent unk all the unk will be in unk"}
+{"src": "3 0 During one recent unk all the unk were in unk", "trg": "During one recent unk all the unk are in unk"}
+{"src": "3 2 all the unk were in unk During one recent unk", "trg": "During one recent unk all the unk are in unk"}
+{"src": "1 0 all the unk were in unk During one recent unk", "trg": "all the unk will be in unk During one recent unk"}
+{"src": "1 1 During one recent unk all the unk were in unk", "trg": "all the unk will be in unk During one recent unk"}
+{"src": "3 0 all the unk were in unk During one recent unk", "trg": "all the unk are in unk During one recent unk"}
+{"src": "3 1 During one recent unk all the unk were in unk", "trg": "all the unk are in unk During one recent unk"}
+{"src": "0 1 At that time tasks were unk unk on the unk of unk", "trg": "tasks were unk unk on the unk of unk At that time"}
+{"src": "0 2 tasks were unk unk on the unk of unk At that time", "trg": "At that time tasks were unk unk on the unk of unk"}
+{"src": "1 0 At that time tasks were unk unk on the unk of unk", "trg": "At that time tasks will be unk unk on the unk of unk"}
+{"src": "1 2 tasks were unk unk on the unk of unk At that time", "trg": "At that time tasks will be unk unk on the unk of unk"}
+{"src": "3 0 At that time tasks were unk unk on the unk of unk", "trg": "At that time tasks are unk unk on the unk of unk"}
+{"src": "3 2 tasks were unk unk on the unk of unk At that time", "trg": "At that time tasks are unk unk on the unk of unk"}
+{"src": "1 0 tasks were unk unk on the unk of unk At that time", "trg": "tasks will be unk unk on the unk of unk At that time"}
+{"src": "1 1 At that time tasks were unk unk on the unk of unk", "trg": "tasks will be unk unk on the unk of unk At that time"}
+{"src": "3 0 tasks were unk unk on the unk of unk At that time", "trg": "tasks are unk unk on the unk of unk At that time"}
+{"src": "3 1 At that time tasks were unk unk on the unk of unk", "trg": "tasks are unk unk on the unk of unk At that time"}
+{"src": "0 1 For more than a unk virtually no one unk about unk unk", "trg": "virtually no one unk about unk unk For more than a unk"}
+{"src": "0 2 virtually no one unk about unk unk For more than a unk", "trg": "For more than a unk virtually no one unk about unk unk"}
+{"src": "1 0 For more than a unk virtually no one unk about unk unk", "trg": "For more than a unk virtually no one will unk about unk unk"}
+{"src": "1 2 virtually no one unk about unk unk For more than a unk", "trg": "For more than a unk virtually no one will unk about unk unk"}
+{"src": "3 0 For more than a unk virtually no one unk about unk unk", "trg": "For more than a unk virtually no one unk about unk unk"}
+{"src": "3 2 virtually no one unk about unk unk For more than a unk", "trg": "For more than a unk virtually no one unk about unk unk"}
+{"src": "1 0 virtually no one unk about unk unk For more than a unk", "trg": "virtually no one will unk about unk unk For more than a unk"}
+{"src": "1 1 For more than a unk virtually no one unk about unk unk", "trg": "virtually no one will unk about unk unk For more than a unk"}
+{"src": "3 0 virtually no one unk about unk unk For more than a unk", "trg": "virtually no one unk about unk unk For more than a unk"}
+{"src": "3 1 For more than a unk virtually no one unk about unk unk", "trg": "virtually no one unk about unk unk For more than a unk"}
+{"src": "0 1 On balance we think it will be positive", "trg": "we think it will be positive On balance"}
+{"src": "0 2 we think it will be positive On balance", "trg": "On balance we think it will be positive"}
+{"src": "1 0 On balance we think it will be positive", "trg": "On balance we will think it will be positive"}
+{"src": "1 2 we think it will be positive On balance", "trg": "On balance we will think it will be positive"}
+{"src": "2 0 On balance we think it will be positive", "trg": "On balance we thought it bed positive"}
+{"src": "2 2 we think it will be positive On balance", "trg": "On balance we thought it bed positive"}
+{"src": "3 0 On balance we think it will be positive", "trg": "On balance we think it is positive"}
+{"src": "3 2 we think it will be positive On balance", "trg": "On balance we think it is positive"}
+{"src": "1 0 we think it will be positive On balance", "trg": "we will think it will be positive On balance"}
+{"src": "1 1 On balance we think it will be positive", "trg": "we will think it will be positive On balance"}
+{"src": "2 0 we think it will be positive On balance", "trg": "we thought it bed positive On balance"}
+{"src": "2 1 On balance we think it will be positive", "trg": "we thought it bed positive On balance"}
+{"src": "3 0 we think it will be positive On balance", "trg": "we think it is positive On balance"}
+{"src": "3 1 On balance we think it will be positive", "trg": "we think it is positive On balance"}
+{"src": "0 1 In unk unk consumption is about unk that of the U.S.", "trg": "unk consumption is about unk that of the U.S. In unk"}
+{"src": "0 2 unk consumption is about unk that of the U.S. In unk", "trg": "In unk unk consumption is about unk that of the U.S."}
+{"src": "1 0 In unk unk consumption is about unk that of the U.S.", "trg": "In unk unk consumption will be about unk that of the U.S."}
+{"src": "1 2 unk consumption is about unk that of the U.S. In unk", "trg": "In unk unk consumption will be about unk that of the U.S."}
+{"src": "2 0 In unk unk consumption is about unk that of the U.S.", "trg": "In unk unk consumption was about unk that of the U.S."}
+{"src": "2 2 unk consumption is about unk that of the U.S. In unk", "trg": "In unk unk consumption was about unk that of the U.S."}
+{"src": "1 0 unk consumption is about unk that of the U.S. In unk", "trg": "unk consumption will be about unk that of the U.S. In unk"}
+{"src": "1 1 In unk unk consumption is about unk that of the U.S.", "trg": "unk consumption will be about unk that of the U.S. In unk"}
+{"src": "2 0 unk consumption is about unk that of the U.S. In unk", "trg": "unk consumption was about unk that of the U.S. In unk"}
+{"src": "2 1 In unk unk consumption is about unk that of the U.S.", "trg": "unk consumption was about unk that of the U.S. In unk"}
+{"src": "0 1 On China 's unk unk is a very unk unk he said", "trg": "unk is a very unk unk he said On China 's unk"}
+{"src": "0 2 unk is a very unk unk he said On China 's unk", "trg": "On China 's unk unk is a very unk unk he said"}
+{"src": "1 0 On China 's unk unk is a very unk unk he said", "trg": "On China 's unk unk will be a very unk unk he will say"}
+{"src": "1 2 unk is a very unk unk he said On China 's unk", "trg": "On China 's unk unk will be a very unk unk he will say"}
+{"src": "2 0 On China 's unk unk is a very unk unk he said", "trg": "On China 's unk unk was a very unk unk he said"}
+{"src": "2 2 unk is a very unk unk he said On China 's unk", "trg": "On China 's unk unk was a very unk unk he said"}
+{"src": "3 0 On China 's unk unk is a very unk unk he said", "trg": "On China 's unk unk is a very unk unk he says"}
+{"src": "3 2 unk is a very unk unk he said On China 's unk", "trg": "On China 's unk unk is a very unk unk he says"}
+{"src": "1 0 unk is a very unk unk he said On China 's unk", "trg": "unk will be a very unk unk he will say On China 's unk"}
+{"src": "1 1 On China 's unk unk is a very unk unk he said", "trg": "unk will be a very unk unk he will say On China 's unk"}
+{"src": "2 0 unk is a very unk unk he said On China 's unk", "trg": "unk was a very unk unk he said On China 's unk"}
+{"src": "2 1 On China 's unk unk is a very unk unk he said", "trg": "unk was a very unk unk he said On China 's unk"}
+{"src": "3 0 unk is a very unk unk he said On China 's unk", "trg": "unk is a very unk unk he says On China 's unk"}
+{"src": "3 1 On China 's unk unk is a very unk unk he said", "trg": "unk is a very unk unk he says On China 's unk"}
+{"src": "0 1 unk the unk of a unk unk I unk unk up", "trg": "I unk unk up unk the unk of a unk unk"}
+{"src": "0 2 I unk unk up unk the unk of a unk unk", "trg": "unk the unk of a unk unk I unk unk up"}
+{"src": "1 0 unk the unk of a unk unk I unk unk up", "trg": "unk the unk of a unk unk I will unk unk up"}
+{"src": "1 2 I unk unk up unk the unk of a unk unk", "trg": "unk the unk of a unk unk I will unk unk up"}
+{"src": "1 0 I unk unk up unk the unk of a unk unk", "trg": "I will unk unk up unk the unk of a unk unk"}
+{"src": "1 1 unk the unk of a unk unk I unk unk up", "trg": "I will unk unk up unk the unk of a unk unk"}
+{"src": "0 1 For some unk the unk is money up to NUM a month", "trg": "the unk is money up to NUM a month For some unk"}
+{"src": "0 2 the unk is money up to NUM a month For some unk", "trg": "For some unk the unk is money up to NUM a month"}
+{"src": "1 0 For some unk the unk is money up to NUM a month", "trg": "For some unk the unk will be money up to NUM a month"}
+{"src": "1 2 the unk is money up to NUM a month For some unk", "trg": "For some unk the unk will be money up to NUM a month"}
+{"src": "2 0 For some unk the unk is money up to NUM a month", "trg": "For some unk the unk was money up to NUM a month"}
+{"src": "2 2 the unk is money up to NUM a month For some unk", "trg": "For some unk the unk was money up to NUM a month"}
+{"src": "1 0 the unk is money up to NUM a month For some unk", "trg": "the unk will be money up to NUM a month For some unk"}
+{"src": "1 1 For some unk the unk is money up to NUM a month", "trg": "the unk will be money up to NUM a month For some unk"}
+{"src": "2 0 the unk is money up to NUM a month For some unk", "trg": "the unk was money up to NUM a month For some unk"}
+{"src": "2 1 For some unk the unk is money up to NUM a month", "trg": "the unk was money up to NUM a month For some unk"}
+{"src": "0 1 For a long time he unk unk unk unk the sports unk", "trg": "he unk unk unk unk the sports unk For a long time"}
+{"src": "0 2 he unk unk unk unk the sports unk For a long time", "trg": "For a long time he unk unk unk unk the sports unk"}
+{"src": "1 0 For a long time he unk unk unk unk the sports unk", "trg": "For a long time he will unk unk unk unk the sports unk"}
+{"src": "1 2 he unk unk unk unk the sports unk For a long time", "trg": "For a long time he will unk unk unk unk the sports unk"}
+{"src": "3 0 For a long time he unk unk unk unk the sports unk", "trg": "For a long time he unk unk unk unk the sports unk"}
+{"src": "3 2 he unk unk unk unk the sports unk For a long time", "trg": "For a long time he unk unk unk unk the sports unk"}
+{"src": "1 0 he unk unk unk unk the sports unk For a long time", "trg": "he will unk unk unk unk the sports unk For a long time"}
+{"src": "1 1 For a long time he unk unk unk unk the sports unk", "trg": "he will unk unk unk unk the sports unk For a long time"}
+{"src": "3 0 he unk unk unk unk the sports unk For a long time", "trg": "he unk unk unk unk the sports unk For a long time"}
+{"src": "3 1 For a long time he unk unk unk unk the sports unk", "trg": "he unk unk unk unk the sports unk For a long time"}
+{"src": "0 1 After all he says Even to make love you need unk", "trg": "he says Even to make love you need unk After all"}
+{"src": "0 2 he says Even to make love you need unk After all", "trg": "After all he says Even to make love you need unk"}
+{"src": "1 0 After all he says Even to make love you need unk", "trg": "After all he will say Even to make love you will need unk"}
+{"src": "1 2 he says Even to make love you need unk After all", "trg": "After all he will say Even to make love you will need unk"}
+{"src": "2 0 After all he says Even to make love you need unk", "trg": "After all he said Even to make love you needed unk"}
+{"src": "2 2 he says Even to make love you need unk After all", "trg": "After all he said Even to make love you needed unk"}
+{"src": "1 0 he says Even to make love you need unk After all", "trg": "he will say Even to make love you will need unk After all"}
+{"src": "1 1 After all he says Even to make love you need unk", "trg": "he will say Even to make love you will need unk After all"}
+{"src": "2 0 he says Even to make love you need unk After all", "trg": "he said Even to make love you needed unk After all"}
+{"src": "2 1 After all he says Even to make love you need unk", "trg": "he said Even to make love you needed unk After all"}
+{"src": "0 1 For instance the unk could unk unk business unk or bank accounts", "trg": "the unk could unk unk business unk or bank accounts For instance"}
+{"src": "0 2 the unk could unk unk business unk or bank accounts For instance", "trg": "For instance the unk could unk unk business unk or bank accounts"}
+{"src": "1 0 For instance the unk could unk unk business unk or bank accounts", "trg": "For instance the unk can unk unk business unk or bank accounts"}
+{"src": "1 2 the unk could unk unk business unk or bank accounts For instance", "trg": "For instance the unk can unk unk business unk or bank accounts"}
+{"src": "3 0 For instance the unk could unk unk business unk or bank accounts", "trg": "For instance the unk can unk unk business unk or bank accounts"}
+{"src": "3 2 the unk could unk unk business unk or bank accounts For instance", "trg": "For instance the unk can unk unk business unk or bank accounts"}
+{"src": "1 0 the unk could unk unk business unk or bank accounts For instance", "trg": "the unk can unk unk business unk or bank accounts For instance"}
+{"src": "1 1 For instance the unk could unk unk business unk or bank accounts", "trg": "the unk can unk unk business unk or bank accounts For instance"}
+{"src": "3 0 the unk could unk unk business unk or bank accounts For instance", "trg": "the unk can unk unk business unk or bank accounts For instance"}
+{"src": "3 1 For instance the unk could unk unk business unk or bank accounts", "trg": "the unk can unk unk business unk or bank accounts For instance"}
+{"src": "0 1 In the past year one unk director resigned while three others unk", "trg": "one unk director resigned while three others unk In the past year"}
+{"src": "0 2 one unk director resigned while three others unk In the past year", "trg": "In the past year one unk director resigned while three others unk"}
+{"src": "1 0 In the past year one unk director resigned while three others unk", "trg": "In the past year one unk director will resign while three others will unk"}
+{"src": "1 2 one unk director resigned while three others unk In the past year", "trg": "In the past year one unk director will resign while three others will unk"}
+{"src": "3 0 In the past year one unk director resigned while three others unk", "trg": "In the past year one unk director resigns while three others unk"}
+{"src": "3 2 one unk director resigned while three others unk In the past year", "trg": "In the past year one unk director resigns while three others unk"}
+{"src": "1 0 one unk director resigned while three others unk In the past year", "trg": "one unk director will resign while three others will unk In the past year"}
+{"src": "1 1 In the past year one unk director resigned while three others unk", "trg": "one unk director will resign while three others will unk In the past year"}
+{"src": "3 0 one unk director resigned while three others unk In the past year", "trg": "one unk director resigns while three others unk In the past year"}
+{"src": "3 1 In the past year one unk director resigned while three others unk", "trg": "one unk director resigns while three others unk In the past year"}
+{"src": "0 1 As of Sept. NUM American Brands had NUM million shares outstanding", "trg": "American Brands had NUM million shares outstanding As of Sept. NUM"}
+{"src": "0 2 American Brands had NUM million shares outstanding As of Sept. NUM", "trg": "As of Sept. NUM American Brands had NUM million shares outstanding"}
+{"src": "1 0 As of Sept. NUM American Brands had NUM million shares outstanding", "trg": "As of Sept. NUM American Brands will have NUM million shares outstanding"}
+{"src": "1 2 American Brands had NUM million shares outstanding As of Sept. NUM", "trg": "As of Sept. NUM American Brands will have NUM million shares outstanding"}
+{"src": "3 0 As of Sept. NUM American Brands had NUM million shares outstanding", "trg": "As of Sept. NUM American Brands has NUM million shares outstanding"}
+{"src": "3 2 American Brands had NUM million shares outstanding As of Sept. NUM", "trg": "As of Sept. NUM American Brands has NUM million shares outstanding"}
+{"src": "1 0 American Brands had NUM million shares outstanding As of Sept. NUM", "trg": "American Brands will have NUM million shares outstanding As of Sept. NUM"}
+{"src": "1 1 As of Sept. NUM American Brands had NUM million shares outstanding", "trg": "American Brands will have NUM million shares outstanding As of Sept. NUM"}
+{"src": "3 0 American Brands had NUM million shares outstanding As of Sept. NUM", "trg": "American Brands has NUM million shares outstanding As of Sept. NUM"}
+{"src": "3 1 As of Sept. NUM American Brands had NUM million shares outstanding", "trg": "American Brands has NUM million shares outstanding As of Sept. NUM"}
+{"src": "0 1 FOR unk unk unk unk unk a unk unk", "trg": "unk unk unk unk a unk unk FOR unk"}
+{"src": "0 2 unk unk unk unk a unk unk FOR unk", "trg": "FOR unk unk unk unk unk a unk unk"}
+{"src": "1 0 FOR unk unk unk unk unk a unk unk", "trg": "FOR unk unk unk unk will unk a unk unk"}
+{"src": "1 2 unk unk unk unk a unk unk FOR unk", "trg": "FOR unk unk unk unk will unk a unk unk"}
+{"src": "3 0 FOR unk unk unk unk unk a unk unk", "trg": "FOR unk unk unk unk unk a unk unk"}
+{"src": "3 2 unk unk unk unk a unk unk FOR unk", "trg": "FOR unk unk unk unk unk a unk unk"}
+{"src": "1 0 unk unk unk unk a unk unk FOR unk", "trg": "unk unk unk will unk a unk unk FOR unk"}
+{"src": "1 1 FOR unk unk unk unk unk a unk unk", "trg": "unk unk unk will unk a unk unk FOR unk"}
+{"src": "3 0 unk unk unk unk a unk unk FOR unk", "trg": "unk unk unk unk a unk unk FOR unk"}
+{"src": "3 1 FOR unk unk unk unk unk a unk unk", "trg": "unk unk unk unk a unk unk FOR unk"}
+{"src": "0 1 For unk unk unk were up", "trg": "unk were up For unk unk"}
+{"src": "0 2 unk were up For unk unk", "trg": "For unk unk unk were up"}
+{"src": "1 0 For unk unk unk were up", "trg": "For unk unk unk will be up"}
+{"src": "1 2 unk were up For unk unk", "trg": "For unk unk unk will be up"}
+{"src": "3 0 For unk unk unk were up", "trg": "For unk unk unk are up"}
+{"src": "3 2 unk were up For unk unk", "trg": "For unk unk unk are up"}
+{"src": "1 0 unk were up For unk unk", "trg": "unk will be up For unk unk"}
+{"src": "1 1 For unk unk unk were up", "trg": "unk will be up For unk unk"}
+{"src": "3 0 unk were up For unk unk", "trg": "unk are up For unk unk"}
+{"src": "3 1 For unk unk unk were up", "trg": "unk are up For unk unk"}
+{"src": "0 1 In NUM Texas Air 's unk unk filed for unk", "trg": "Texas Air 's unk unk filed for unk In NUM"}
+{"src": "0 2 Texas Air 's unk unk filed for unk In NUM", "trg": "In unk Texas Air 's unk unk filed for unk"}
+{"src": "1 0 In NUM Texas Air 's unk unk filed for unk", "trg": "In unk Texas Air 's unk unk will file for unk"}
+{"src": "1 2 Texas Air 's unk unk filed for unk In NUM", "trg": "In unk Texas Air 's unk unk will file for unk"}
+{"src": "3 0 In NUM Texas Air 's unk unk filed for unk", "trg": "In unk Texas Air 's unk unk unk for unk"}
+{"src": "3 2 Texas Air 's unk unk filed for unk In NUM", "trg": "In unk Texas Air 's unk unk unk for unk"}
+{"src": "1 0 Texas Air 's unk unk filed for unk In NUM", "trg": "Texas Air 's unk unk will file for unk In NUM"}
+{"src": "1 1 In NUM Texas Air 's unk unk filed for unk", "trg": "Texas Air 's unk unk will file for unk In NUM"}
+{"src": "3 0 Texas Air 's unk unk filed for unk In NUM", "trg": "Texas Air 's unk unk unk for unk In NUM"}
+{"src": "3 1 In NUM Texas Air 's unk unk filed for unk", "trg": "Texas Air 's unk unk unk for unk In NUM"}
+{"src": "0 1 At several different unk it 's a unk unk", "trg": "it 's a unk unk At several different unk"}
+{"src": "0 2 it 's a unk unk At several different unk", "trg": "At several different unk it 's a unk unk"}
+{"src": "1 0 At several different unk it 's a unk unk", "trg": "At several different unk it will be a unk unk"}
+{"src": "1 2 it 's a unk unk At several different unk", "trg": "At several different unk it will be a unk unk"}
+{"src": "2 0 At several different unk it 's a unk unk", "trg": "At several different unk it was a unk unk"}
+{"src": "2 2 it 's a unk unk At several different unk", "trg": "At several different unk it was a unk unk"}
+{"src": "3 0 At several different unk it 's a unk unk", "trg": "At several different unk it is a unk unk"}
+{"src": "3 2 it 's a unk unk At several different unk", "trg": "At several different unk it is a unk unk"}
+{"src": "1 0 it 's a unk unk At several different unk", "trg": "it will be a unk unk At several different unk"}
+{"src": "1 1 At several different unk it 's a unk unk", "trg": "it will be a unk unk At several different unk"}
