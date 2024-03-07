@@ -7,9 +7,7 @@
 #SBATCH --mem-per-cpu=10g
 #SBATCH --gres=gpu:2
 #SBATCH --time=240:00:00
-#SBATCH --account=tocho1
 #SBATCH --partition=spgpu
-#SBATCH --mail-user=yiweilyu@umich.edu
 #SBATCH --export=ALL
 
 
